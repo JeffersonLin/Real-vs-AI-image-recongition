@@ -1,0 +1,3502 @@
+[
+    {
+        "id": 3851,
+        "real_image_file_name": "4615485077.jpg",
+        "fake_image_file_name": "generated_image_1.jpeg",
+        "prompts": " Police in riot gear fill a street lined with spectators in red clothing .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3852,
+        "real_image_file_name": "4615498560.jpg",
+        "fake_image_file_name": "generated_image_2.jpeg",
+        "prompts": " The band consisting of 4 members is playing on a stage behind a giant banner with the word 'york ' behind them and there is a photographer to their right ; taking their picture .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3853,
+        "real_image_file_name": "4615550262.jpg",
+        "fake_image_file_name": "generated_image_3.jpeg",
+        "prompts": " Three men are playing the drums and guitar on stage .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3854,
+        "real_image_file_name": "4615629011.jpg",
+        "fake_image_file_name": "generated_image_4.jpeg",
+        "prompts": " A statue with slight chipping on the face and delicate features .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3855,
+        "real_image_file_name": "4615743138.jpg",
+        "fake_image_file_name": "generated_image_5.jpeg",
+        "prompts": " An African-American band is playing outdoors on a stage surrounded by trees .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3856,
+        "real_image_file_name": "4615757994.jpg",
+        "fake_image_file_name": "generated_image_6.jpeg",
+        "prompts": " An african american man has on a brown hat and wearing a brown button shirt holding a microphone as he sings .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3857,
+        "real_image_file_name": "4615770260.jpg",
+        "fake_image_file_name": "generated_image_7.jpeg",
+        "prompts": " A woman in a white tank top is holding a microphone and singing with a man in a brown shirt , who is also holding a microphone .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3858,
+        "real_image_file_name": "4616045208.jpg",
+        "fake_image_file_name": "generated_image_8.jpeg",
+        "prompts": " Many policemen , including one who seems to be the main focus standing in the very front of the picture looking away from the camera , standing around wearing vests and helmets with shields .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3859,
+        "real_image_file_name": "4616068657.jpg",
+        "fake_image_file_name": "generated_image_9.jpeg",
+        "prompts": " A young blond woman with a golden flower sits on a bench with a black man in a bowler hat near a bearded white man .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3860,
+        "real_image_file_name": "4616293960.jpg",
+        "fake_image_file_name": "generated_image_10.jpeg",
+        "prompts": " A woman in a blue shirt with a red bag at a busy fruit market .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3861,
+        "real_image_file_name": "4616320530.jpg",
+        "fake_image_file_name": "generated_image_11.jpeg",
+        "prompts": " Participant 3442 , a child in a yellow shirt , runs in a race .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3862,
+        "real_image_file_name": "4616443347.jpg",
+        "fake_image_file_name": "generated_image_12.jpeg",
+        "prompts": " People walk past a wall with a painted graphic of the \" I Love NY \" logo where a doctor is holding his stethoscope up to the heart of the logo .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3863,
+        "real_image_file_name": "4616477003.jpg",
+        "fake_image_file_name": "generated_image_13.jpeg",
+        "prompts": " A young girl in a hotel lobby is balancing a game of wooden blocks on a table .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3864,
+        "real_image_file_name": "4616529073.jpg",
+        "fake_image_file_name": "generated_image_14.jpeg",
+        "prompts": " A man is standing on the sidewalk publicly advertising a religious message via a sign wrapped around his neck .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3865,
+        "real_image_file_name": "4617732753.jpg",
+        "fake_image_file_name": "generated_image_15.jpeg",
+        "prompts": " Two men , one wearing a red shirt and another wearing a blue shirt , are inspecting a small tree while others are at work in the background .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3866,
+        "real_image_file_name": "4617745058.jpg",
+        "fake_image_file_name": "generated_image_16.jpeg",
+        "prompts": " A girl hanging from a basketball goal while a boy on the ground looks on .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3867,
+        "real_image_file_name": "461784003.jpg",
+        "fake_image_file_name": "generated_image_17.jpeg",
+        "prompts": " a white male in a green shirt and brown pants is jumping in the air with his arms extended and his legs pulled up on a pile of rocks in the middle of a grassy field on a sunny day .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3868,
+        "real_image_file_name": "4617869592.jpg",
+        "fake_image_file_name": "generated_image_18.jpeg",
+        "prompts": " Men and women sitting at the table out on the patio drinking cocktails while young boy looks on .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3869,
+        "real_image_file_name": "4617937991.jpg",
+        "fake_image_file_name": "generated_image_19.jpeg",
+        "prompts": " Person in a blue shirt and tan shorts sits with their guitar between their legs while picking at their fingers .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3870,
+        "real_image_file_name": "4617955480.jpg",
+        "fake_image_file_name": "generated_image_20.jpeg",
+        "prompts": " Two men , one wearing a face mask , are examining sheets of wood .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3871,
+        "real_image_file_name": "4617982332.jpg",
+        "fake_image_file_name": "generated_image_21.jpeg",
+        "prompts": " Three people , two women and one man , crowd around a grill outside .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3872,
+        "real_image_file_name": "4618092593.jpg",
+        "fake_image_file_name": "generated_image_22.jpeg",
+        "prompts": " Two young guys with goatees shaving their heads with razors .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3873,
+        "real_image_file_name": "4618347870.jpg",
+        "fake_image_file_name": "generated_image_23.jpeg",
+        "prompts": " A man placing his hand inside the pot of a small tree as he squats behind a row of other small trees .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3874,
+        "real_image_file_name": "4618355872.jpg",
+        "fake_image_file_name": "generated_image_24.jpeg",
+        "prompts": " A young woman is happy that she sees a bloom in the plant and is going to take a photo of it .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3875,
+        "real_image_file_name": "4618572855.jpg",
+        "fake_image_file_name": "generated_image_25.jpeg",
+        "prompts": " A well dressed young woman waits on a bench for the train while a man busy writing something waits nearby .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3876,
+        "real_image_file_name": "4618622923.jpg",
+        "fake_image_file_name": "generated_image_26.jpeg",
+        "prompts": " A man in a black shirt is holding a microphone on stage with a drummer and guitarist .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3877,
+        "real_image_file_name": "461866432.jpg",
+        "fake_image_file_name": "generated_image_27.jpeg",
+        "prompts": " An unhappy looking girl wearing a pink skirt and a boy with a white t-shirt are sitting on a couch .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3878,
+        "real_image_file_name": "4618885426.jpg",
+        "fake_image_file_name": "generated_image_28.jpeg",
+        "prompts": " Two little girls , playing together in the sand .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3879,
+        "real_image_file_name": "4619396193.jpg",
+        "fake_image_file_name": "generated_image_29.jpeg",
+        "prompts": " Wrinkled man wearing a black leather jacket and beret jotting notes on a piece of paper while sitting outdoors on a bench .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3880,
+        "real_image_file_name": "4619477123.jpg",
+        "fake_image_file_name": "generated_image_30.jpeg",
+        "prompts": " A female singer croons into a microphone close to her mouth .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3881,
+        "real_image_file_name": "4619640749.jpg",
+        "fake_image_file_name": "generated_image_31.jpeg",
+        "prompts": " An Asian man and his opponent sit outside on the ground while playing a grid type game with checker-like pieces .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3882,
+        "real_image_file_name": "4619654311.jpg",
+        "fake_image_file_name": "generated_image_32.jpeg",
+        "prompts": " Two older Asian gentlemen play a game while they sit on a bench .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3883,
+        "real_image_file_name": "4619702530.jpg",
+        "fake_image_file_name": "generated_image_33.jpeg",
+        "prompts": " A man sits between an orange cane and an orange flower pot with his head bowed .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3884,
+        "real_image_file_name": "4619832775.jpg",
+        "fake_image_file_name": "generated_image_34.jpeg",
+        "prompts": " A young woman with a pink bag and white umbrella is standing at a metro station .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3885,
+        "real_image_file_name": "4619879173.jpg",
+        "fake_image_file_name": "generated_image_35.jpeg",
+        "prompts": " A small , Asian girl wearing a white outfit running down the street while there is a woman wearing a pink baseball hat behind her in the distance .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3886,
+        "real_image_file_name": "4620028074.jpg",
+        "fake_image_file_name": "generated_image_36.jpeg",
+        "prompts": " A woman in gray sits and overlooks her similarly gray surroundings .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3887,
+        "real_image_file_name": "4620131873.jpg",
+        "fake_image_file_name": "generated_image_37.jpeg",
+        "prompts": " A girl in low-cut jeans and black top is walking with a piece of paper in her hand .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3888,
+        "real_image_file_name": "4620203846.jpg",
+        "fake_image_file_name": "generated_image_38.jpeg",
+        "prompts": " A young woman in black pants is standing beside her bike and taking a photograph .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3889,
+        "real_image_file_name": "4620293662.jpg",
+        "fake_image_file_name": "generated_image_39.jpeg",
+        "prompts": " As he lays in the grass , he plucks a spent dandelion , and makes a wish as he blows the little pinwheels into the air .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3890,
+        "real_image_file_name": "4620399509.jpg",
+        "fake_image_file_name": "generated_image_40.jpeg",
+        "prompts": " An Asian female with a flowered print halter top white dress , wearing a bracelet and necklace and has long dark hair is walking down the street talking on a cellphone .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3891,
+        "real_image_file_name": "4620455202.jpg",
+        "fake_image_file_name": "generated_image_41.jpeg",
+        "prompts": " A woman wearing a headscarf is pouring liquid from one cup into another , in front of a scenic backdrop .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3892,
+        "real_image_file_name": "4620548112.jpg",
+        "fake_image_file_name": "generated_image_42.jpeg",
+        "prompts": " A woman and her child bike down a scenic road , with lush green plant life on the sides of the road .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3893,
+        "real_image_file_name": "462080147.jpg",
+        "fake_image_file_name": "generated_image_43.jpeg",
+        "prompts": " A man holding a wine bottle and wearing a box on his head is standing next to a man wearing a black hoodie .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3894,
+        "real_image_file_name": "4621091937.jpg",
+        "fake_image_file_name": "generated_image_44.jpeg",
+        "prompts": " A group of men are passing time sitting on the ledges of a building .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3895,
+        "real_image_file_name": "4621100791.jpg",
+        "fake_image_file_name": "generated_image_45.jpeg",
+        "prompts": " A man in a green jacket and black leather boots sleeping with his mouth open on a wooden bench in the grass .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3896,
+        "real_image_file_name": "4621123071.jpg",
+        "fake_image_file_name": "generated_image_46.jpeg",
+        "prompts": " A man in a blue hat rests his head on a blue and cream bag , with his leg up , while looking at an out of focus woman in a field with yellow flowers .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3897,
+        "real_image_file_name": "4621125014.jpg",
+        "fake_image_file_name": "generated_image_47.jpeg",
+        "prompts": " A man standing in a kitchen with dishwasher and silverware drawer open .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3898,
+        "real_image_file_name": "4621165455.jpg",
+        "fake_image_file_name": "generated_image_48.jpeg",
+        "prompts": " Two men are walking in front of a blue building , both are wearing backpacks .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3899,
+        "real_image_file_name": "4621219089.jpg",
+        "fake_image_file_name": "generated_image_49.jpeg",
+        "prompts": " A man and a woman in Indian garb are weighing a metal container .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3900,
+        "real_image_file_name": "4621393910.jpg",
+        "fake_image_file_name": "generated_image_50.jpeg",
+        "prompts": " A man leans out of the window of an old building under a flag ; another man looks down at him from the window above .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3901,
+        "real_image_file_name": "4621559450.jpg",
+        "fake_image_file_name": "generated_image_51.jpeg",
+        "prompts": " A man is laying out his merchandise to include eggs , chickens and vegetables .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3902,
+        "real_image_file_name": "4621603389.jpg",
+        "fake_image_file_name": "generated_image_52.jpeg",
+        "prompts": " A husky dog is tied to a pole while a small white and brown down sniffs it and a tiny brown dog stands on the white dog 's hind end .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3903,
+        "real_image_file_name": "4621699159.jpg",
+        "fake_image_file_name": "generated_image_53.jpeg",
+        "prompts": " Man balding with a mustache and semi beard standing wearing a psychedelic button shirt playing the guitar as he sings .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3904,
+        "real_image_file_name": "4621700753.jpg",
+        "fake_image_file_name": "generated_image_54.jpeg",
+        "prompts": " A musician in a colorful shirt appears to perform a solo on a slide guitar at an crowded outdoor musical event .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3905,
+        "real_image_file_name": "4621758865.jpg",
+        "fake_image_file_name": "generated_image_55.jpeg",
+        "prompts": " An older hispanic man in a white hat sits on a cart being pulled by donkey on a rustic road .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3906,
+        "real_image_file_name": "4621759288.jpg",
+        "fake_image_file_name": "generated_image_56.jpeg",
+        "prompts": " People of all ages are resting on blankets in the grass on a sunny day .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3907,
+        "real_image_file_name": "4621762010.jpg",
+        "fake_image_file_name": "generated_image_57.jpeg",
+        "prompts": " Two men in zip-up jackets sit on a bench eating while one rests with eyes closed .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3908,
+        "real_image_file_name": "4621831701.jpg",
+        "fake_image_file_name": "generated_image_58.jpeg",
+        "prompts": " A man is playing a guitar and talking or singing into a microphone .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3909,
+        "real_image_file_name": "462198798.jpg",
+        "fake_image_file_name": "generated_image_59.jpeg",
+        "prompts": " A black dog and its reflection are seen near a pond ringed by dry foliage .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3910,
+        "real_image_file_name": "4622064391.jpg",
+        "fake_image_file_name": "generated_image_60.jpeg",
+        "prompts": " A male carrying a red backpack and a female with a jean jacket standing by a railing with a tan dog .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3911,
+        "real_image_file_name": "462220690.jpg",
+        "fake_image_file_name": "generated_image_61.jpeg",
+        "prompts": " A little girl wearing a yellow coat , striped scarf , pink rain boots , and carrying a white purse is walking with her Golden Retriever down an icy and puddled road .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3912,
+        "real_image_file_name": "4622296311.jpg",
+        "fake_image_file_name": "generated_image_62.jpeg",
+        "prompts": " Three men and one woman , who is wearing a headscarf , are mounted on scooters with palm trees behind them .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3913,
+        "real_image_file_name": "4622326549.jpg",
+        "fake_image_file_name": "generated_image_63.jpeg",
+        "prompts": " A person on a mini motorbike wearing red garment and a cloth to cover her face riding along a road .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3914,
+        "real_image_file_name": "4622334438.jpg",
+        "fake_image_file_name": "generated_image_64.jpeg",
+        "prompts": " A man in a turban that partially covers his face wearing a blue and light brown robe over a his clothes shows a slight smile as he gazes over to the right .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3915,
+        "real_image_file_name": "4622340284.jpg",
+        "fake_image_file_name": "generated_image_65.jpeg",
+        "prompts": " A woman drives a bike wearing a white blouse with her brown hair blowing in the wind .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3916,
+        "real_image_file_name": "4622379849.jpg",
+        "fake_image_file_name": "generated_image_66.jpeg",
+        "prompts": " A man dressed in a blue running shirt is stretching outside of his apartment before he takes his run .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3917,
+        "real_image_file_name": "4622574943.jpg",
+        "fake_image_file_name": "generated_image_67.jpeg",
+        "prompts": " A man with a backpack standing and resting his bicycle against a couple of mailboxes .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3918,
+        "real_image_file_name": "4622585657.jpg",
+        "fake_image_file_name": "generated_image_68.jpeg",
+        "prompts": " a female school crossing guard is leaning against a lamp post and waiting for children to approach .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3919,
+        "real_image_file_name": "4622635648.jpg",
+        "fake_image_file_name": "generated_image_69.jpeg",
+        "prompts": " A man in beige clothes is sitting on a bus with a messenger bag slung across his chest , while a woman with a purse stands near him .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3920,
+        "real_image_file_name": "4622779689.jpg",
+        "fake_image_file_name": "generated_image_70.jpeg",
+        "prompts": " A blond woman in a brown sweater is standing behind a counter with a display of seafood .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3921,
+        "real_image_file_name": "4622844183.jpg",
+        "fake_image_file_name": "generated_image_71.jpeg",
+        "prompts": " A man in a brown striped sweater looks down at a basket of produce .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3922,
+        "real_image_file_name": "4622860824.jpg",
+        "fake_image_file_name": "generated_image_72.jpeg",
+        "prompts": " A woman in traditional Muslim wardrobe is riding a scooter .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3923,
+        "real_image_file_name": "462288558.jpg",
+        "fake_image_file_name": "generated_image_73.jpeg",
+        "prompts": " Two brown dogs playing with each other , one has his mouth open biting the other dog .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3924,
+        "real_image_file_name": "4622908706.jpg",
+        "fake_image_file_name": "generated_image_74.jpeg",
+        "prompts": " A person with long hair pushes a young girl with pigtails in a stroller .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3925,
+        "real_image_file_name": "4622915732.jpg",
+        "fake_image_file_name": "generated_image_75.jpeg",
+        "prompts": " The lady in the short black skirt is walking with a lady in a short striped dress .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3926,
+        "real_image_file_name": "4622921215.jpg",
+        "fake_image_file_name": "generated_image_76.jpeg",
+        "prompts": " A New York City taxi drives past crowds of people on the sidewalks .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3927,
+        "real_image_file_name": "4622993220.jpg",
+        "fake_image_file_name": "generated_image_77.jpeg",
+        "prompts": " A young asian woman walks past a blue wall that says \" Post No Bills . \"",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3928,
+        "real_image_file_name": "4622998986.jpg",
+        "fake_image_file_name": "generated_image_78.jpeg",
+        "prompts": " Three men , one in a pink shirt , and a woman are crossing the street .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3929,
+        "real_image_file_name": "4623000836.jpg",
+        "fake_image_file_name": "generated_image_79.jpeg",
+        "prompts": " A group of kids walk down an urban street passing by graffiti and a small car and a couple bicycles .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3930,
+        "real_image_file_name": "4623003058.jpg",
+        "fake_image_file_name": "generated_image_80.jpeg",
+        "prompts": " A woman with brown hair , black jacket , large black sunglasses , and pink scarf walking down the street .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3931,
+        "real_image_file_name": "4623009784.jpg",
+        "fake_image_file_name": "generated_image_81.jpeg",
+        "prompts": " A woman wearing an olive green jacket and navy shirt looks tired as she comes up the steps from the subway .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3932,
+        "real_image_file_name": "4623083754.jpg",
+        "fake_image_file_name": "generated_image_82.jpeg",
+        "prompts": " Four women with their arms around each other posing for a picture and smiling .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3933,
+        "real_image_file_name": "4623188792.jpg",
+        "fake_image_file_name": "generated_image_83.jpeg",
+        "prompts": " Two men stand on a sidewalk next to an ATM sign , one smoking in casual wear , the other drinks a beverage wearing business clothes .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3934,
+        "real_image_file_name": "4623271447.jpg",
+        "fake_image_file_name": "generated_image_84.jpeg",
+        "prompts": " A woman wearing a yellow shirt with big sunglasses is walking on a brick paved road .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3935,
+        "real_image_file_name": "4623271967.jpg",
+        "fake_image_file_name": "generated_image_85.jpeg",
+        "prompts": " A man with a camera and belt buckle reading \" AX \" smokes a cigarette .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3936,
+        "real_image_file_name": "4623436283.jpg",
+        "fake_image_file_name": "generated_image_86.jpeg",
+        "prompts": " People are walking down a grassy hill with a fence behind them .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3937,
+        "real_image_file_name": "4623504999.jpg",
+        "fake_image_file_name": "generated_image_87.jpeg",
+        "prompts": " Three women in a small dingy room , two of which are standing at a table while one is sitting and looking into a microscope .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3938,
+        "real_image_file_name": "4623589654.jpg",
+        "fake_image_file_name": "generated_image_88.jpeg",
+        "prompts": " A large group of men line up along the side of a large brick complex beside a field .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3939,
+        "real_image_file_name": "4623591448.jpg",
+        "fake_image_file_name": "generated_image_89.jpeg",
+        "prompts": " The low sun is casting a shadow of the person on the wall behind them .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3940,
+        "real_image_file_name": "462383841.jpg",
+        "fake_image_file_name": "generated_image_90.jpeg",
+        "prompts": " A young woman wearing a bikini and a baseball cap is taking a sunbath floating on the beach",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3941,
+        "real_image_file_name": "4623878062.jpg",
+        "fake_image_file_name": "generated_image_91.jpeg",
+        "prompts": " A man wearing black clothing and a black hat looking at a woman in a hat chew her finger .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3942,
+        "real_image_file_name": "4623878206.jpg",
+        "fake_image_file_name": "generated_image_92.jpeg",
+        "prompts": " A woman in a long green shirt , a yellow backpack , and a bottle of water is walking across a street as a couple follows close behind .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3943,
+        "real_image_file_name": "4623878314.jpg",
+        "fake_image_file_name": "generated_image_93.jpeg",
+        "prompts": " A man in glasses and a striped shirt walks down the street with one hand in his pocket .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3944,
+        "real_image_file_name": "4623878560.jpg",
+        "fake_image_file_name": "generated_image_94.jpeg",
+        "prompts": " A man , likely of asian or pacific Islander ethnicity is walking down a street .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3945,
+        "real_image_file_name": "4624337625.jpg",
+        "fake_image_file_name": "generated_image_95.jpeg",
+        "prompts": " A person in a light green jacket carries a multicolored umbrella in an outdoor public area .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3946,
+        "real_image_file_name": "4624341277.jpg",
+        "fake_image_file_name": "generated_image_96.jpeg",
+        "prompts": " A man on stilts wearing a giant top hat stares down at a little girl in a red shirt .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3947,
+        "real_image_file_name": "4624487350.jpg",
+        "fake_image_file_name": "generated_image_97.jpeg",
+        "prompts": " A man raising or lowering a blue and red garage door next to a nail polish poster .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3948,
+        "real_image_file_name": "4624636407.jpg",
+        "fake_image_file_name": "generated_image_98.jpeg",
+        "prompts": " A person sits next to light pole that has flags on it with anchors , overlooking a river and a city front on the other side .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3949,
+        "real_image_file_name": "4624956100.jpg",
+        "fake_image_file_name": "generated_image_99.jpeg",
+        "prompts": " The young man in the blue shirt holds the ladder for the man in the white shirt in a graffiti-covered alley .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3950,
+        "real_image_file_name": "462509510.jpg",
+        "fake_image_file_name": "generated_image_100.jpeg",
+        "prompts": " An older white-haired man is sitting down in front of someone wearing black pants , black shoes and a red coat- He is polishing the black shoes .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3951,
+        "real_image_file_name": "4625152980.jpg",
+        "fake_image_file_name": "generated_image_101.jpeg",
+        "prompts": " A uniformed color guard officer watches his brown gun prop spin in the air while another does the same behind him .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3952,
+        "real_image_file_name": "4625244996.jpg",
+        "fake_image_file_name": "generated_image_102.jpeg",
+        "prompts": " A Australian Sheepdog is sitting on a wooden dock , tied to a white sailboat .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3953,
+        "real_image_file_name": "4625272395.jpg",
+        "fake_image_file_name": "generated_image_103.jpeg",
+        "prompts": " Three ballet dancers wearing red dance on a red-lit stage .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3954,
+        "real_image_file_name": "4625380993.jpg",
+        "fake_image_file_name": "generated_image_104.jpeg",
+        "prompts": " A construction worker speaks to another construction worker , using his hands to gesture as he speaks .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3955,
+        "real_image_file_name": "4625392581.jpg",
+        "fake_image_file_name": "generated_image_105.jpeg",
+        "prompts": " A young boy sits atop his dad 's shoulders as his dad grasps his child 's feet so he wo n't fall .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3956,
+        "real_image_file_name": "462555896.jpg",
+        "fake_image_file_name": "generated_image_106.jpeg",
+        "prompts": " One female wearing a blue sweatshirt and ski cap is holding a camera and jumping .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3957,
+        "real_image_file_name": "4625651551.jpg",
+        "fake_image_file_name": "generated_image_107.jpeg",
+        "prompts": " Two girls wearing sunglasses at a park with a man swimming in the pond in the background .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3958,
+        "real_image_file_name": "4625676487.jpg",
+        "fake_image_file_name": "generated_image_108.jpeg",
+        "prompts": " A group of three people , one of them a young boy , are standing in front of a large aquarium like fish tank looking at the fish .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3959,
+        "real_image_file_name": "4625729459.jpg",
+        "fake_image_file_name": "generated_image_109.jpeg",
+        "prompts": " A man is angrily boxing another , jabbing his left fist into the neck of the other .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3960,
+        "real_image_file_name": "4626005440.jpg",
+        "fake_image_file_name": "generated_image_110.jpeg",
+        "prompts": " A young Asian woman sits posing while a portrait artist draws a portrait of her wearing a pink dress .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3961,
+        "real_image_file_name": "4626017432.jpg",
+        "fake_image_file_name": "generated_image_111.jpeg",
+        "prompts": " A man in a suit walking down a busy street smoking a cigar .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3962,
+        "real_image_file_name": "4626025364.jpg",
+        "fake_image_file_name": "generated_image_112.jpeg",
+        "prompts": " An old man wearing glasses and gray suit riding a bicycle next to a bus with a picture of the movie Iron man .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3963,
+        "real_image_file_name": "4626046174.jpg",
+        "fake_image_file_name": "generated_image_113.jpeg",
+        "prompts": " A man in a baseball cap , shorts , and polo shirt , wearing an ID on a lanyard , sits looking at a rack of clothes .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3964,
+        "real_image_file_name": "4626191837.jpg",
+        "fake_image_file_name": "generated_image_114.jpeg",
+        "prompts": " A group of people of different ethnicities are entering , exiting , and walking past a brick building .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3965,
+        "real_image_file_name": "4626192243.jpg",
+        "fake_image_file_name": "generated_image_115.jpeg",
+        "prompts": " In front of a laundromat and The Gulch of San Francisco , there is a man down on the ground , a man on a cellphone , and a couple of women walking by .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3966,
+        "real_image_file_name": "462653883.jpg",
+        "fake_image_file_name": "generated_image_116.jpeg",
+        "prompts": " Workers in bright yellow and red vests are cleaning windows outside a building .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3967,
+        "real_image_file_name": "4626556918.jpg",
+        "fake_image_file_name": "generated_image_117.jpeg",
+        "prompts": " A man with a skateboard is contemplating his next move at the top of the skateboard hole .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3968,
+        "real_image_file_name": "462663804.jpg",
+        "fake_image_file_name": "generated_image_118.jpeg",
+        "prompts": " Two barefoot men are playing on a green lawn outside a building with other people in the background .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3969,
+        "real_image_file_name": "4626799348.jpg",
+        "fake_image_file_name": "generated_image_119.jpeg",
+        "prompts": " Nine people standing around and crossing a city street named Larkin , near a wine store and a large sign reading \" Thain House . \"",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3970,
+        "real_image_file_name": "462704170.jpg",
+        "fake_image_file_name": "generated_image_120.jpeg",
+        "prompts": " A man wearing a yellow vest and gray fisherman 's cap is sitting in a red chair along with another similarly dressed man in a red chair next to him .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3971,
+        "real_image_file_name": "462725077.jpg",
+        "fake_image_file_name": "generated_image_121.jpeg",
+        "prompts": " Two Asian women , one older , one younger , are surrounded by oriental trinkets .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3972,
+        "real_image_file_name": "4627601777.jpg",
+        "fake_image_file_name": "generated_image_122.jpeg",
+        "prompts": " A man and a young boy wearing striped shirts walk on a dirt path along the water .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3973,
+        "real_image_file_name": "4628050549.jpg",
+        "fake_image_file_name": "generated_image_123.jpeg",
+        "prompts": " A man dressed like the Statue of Liberty is wearing a robe , has his face painted a bluish color , and is holding the same type of flame in his right hand .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3974,
+        "real_image_file_name": "4628091089.jpg",
+        "fake_image_file_name": "generated_image_124.jpeg",
+        "prompts": " Two police officers casually scanning the beach on foot .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3975,
+        "real_image_file_name": "4628337496.jpg",
+        "fake_image_file_name": "generated_image_125.jpeg",
+        "prompts": " A young woman wearing a black shirt , blue jeans , black hat , glasses , and a blue sweater draped around her shoulders , walks holding an umbrella to protect her from the sun .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3976,
+        "real_image_file_name": "4628365284.jpg",
+        "fake_image_file_name": "generated_image_126.jpeg",
+        "prompts": " A shoeless bald man in blue jeans leaning relaxed with his hands on his head .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3977,
+        "real_image_file_name": "4628366802.jpg",
+        "fake_image_file_name": "generated_image_127.jpeg",
+        "prompts": " Man with bowl cut and gray shirt photographed from behind on a subway .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3978,
+        "real_image_file_name": "4628406069.jpg",
+        "fake_image_file_name": "generated_image_128.jpeg",
+        "prompts": " Two workers are wearing hard hats while one of them begins to descend into a floor hatch .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3979,
+        "real_image_file_name": "4628572465.jpg",
+        "fake_image_file_name": "generated_image_129.jpeg",
+        "prompts": " A girl wearing a white top is sitting in between two other people with a large sketchpad in front of her .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3980,
+        "real_image_file_name": "4628656756.jpg",
+        "fake_image_file_name": "generated_image_130.jpeg",
+        "prompts": " A man with long hair and a beard is holding a camera next to some small dolls on a table .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3981,
+        "real_image_file_name": "462879289.jpg",
+        "fake_image_file_name": "generated_image_131.jpeg",
+        "prompts": " A girls ' soccer team in green and black uniforms and their coach , wearing a white shirt and shorts , are stretching their legs out on the field .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3982,
+        "real_image_file_name": "462882962.jpg",
+        "fake_image_file_name": "generated_image_132.jpeg",
+        "prompts": " A group of men , mostly wearing yellow hard hats , are looking off a ledge .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3983,
+        "real_image_file_name": "4629118430.jpg",
+        "fake_image_file_name": "generated_image_133.jpeg",
+        "prompts": " A couple stands outside of a German restaurant on a cobbled sidewalk .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3984,
+        "real_image_file_name": "4629445758.jpg",
+        "fake_image_file_name": "generated_image_134.jpeg",
+        "prompts": " A group of men and women wearing costumes , goggles , and hats sit and stand around an indoor table while conversing and drinking coffee or tea .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3985,
+        "real_image_file_name": "4629577937.jpg",
+        "fake_image_file_name": "generated_image_135.jpeg",
+        "prompts": " A police officer in a black uniform and protective gear is standing in a crowd .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3986,
+        "real_image_file_name": "4629605656.jpg",
+        "fake_image_file_name": "generated_image_136.jpeg",
+        "prompts": " Several people stand in line at what appears to be a park for a water fountain , vendor , lavatory or something of the sort .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3987,
+        "real_image_file_name": "462962059.jpg",
+        "fake_image_file_name": "generated_image_137.jpeg",
+        "prompts": " A female with blond-hair , wearing blue jeans , walking past a music store and tall , beige building which has tall glass doors .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3988,
+        "real_image_file_name": "4629625465.jpg",
+        "fake_image_file_name": "generated_image_138.jpeg",
+        "prompts": " A young boy holding a toy stands on a stool in the shower , looking at the camera .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3989,
+        "real_image_file_name": "4630116750.jpg",
+        "fake_image_file_name": "generated_image_139.jpeg",
+        "prompts": " A man in a maroon shirt is outside bending down next to a concrete wall .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3990,
+        "real_image_file_name": "4630355820.jpg",
+        "fake_image_file_name": "generated_image_140.jpeg",
+        "prompts": " Four women ( one with bright pink hair and clothes ) look at something .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3991,
+        "real_image_file_name": "4630818826.jpg",
+        "fake_image_file_name": "generated_image_141.jpeg",
+        "prompts": " A woman with brown curly hair , holding sunglasses , standing in a crowd .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3992,
+        "real_image_file_name": "4630824427.jpg",
+        "fake_image_file_name": "generated_image_142.jpeg",
+        "prompts": " A man is holding a young woman around the waist inside a square of yellow crime scene tape .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3993,
+        "real_image_file_name": "4630825353.jpg",
+        "fake_image_file_name": "generated_image_143.jpeg",
+        "prompts": " A woman lying in a relaxed pose in an asphalt parking lot , as a crown migrates to the left side of the picture .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3994,
+        "real_image_file_name": "4630881369.jpg",
+        "fake_image_file_name": "generated_image_144.jpeg",
+        "prompts": " Young boy with powder and blue paint on his face looks away .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3995,
+        "real_image_file_name": "4631033411.jpg",
+        "fake_image_file_name": "generated_image_145.jpeg",
+        "prompts": " A woman wearing black framed glasses , a dark head covering and a red long-sleeved top is holding a black handbag while she leans against a wall .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3996,
+        "real_image_file_name": "4631072108.jpg",
+        "fake_image_file_name": "generated_image_146.jpeg",
+        "prompts": " African American man stands outside wearing a colorful orange and yellow shirt and jacket .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3997,
+        "real_image_file_name": "4631131293.jpg",
+        "fake_image_file_name": "generated_image_147.jpeg",
+        "prompts": " A group of Japanese women wearing matching outfits walking across a crosswalk while passersby stare .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3998,
+        "real_image_file_name": "4631136622.jpg",
+        "fake_image_file_name": "generated_image_148.jpeg",
+        "prompts": " A lady in a gray skirt and black shirt has a child on her hip crossing the street with three additional young children .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 3999,
+        "real_image_file_name": "463116316.jpg",
+        "fake_image_file_name": "generated_image_149.jpeg",
+        "prompts": " Kids preparing to leave on a scuba diving adventure in clear bluish green water .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4000,
+        "real_image_file_name": "4631205536.jpg",
+        "fake_image_file_name": "generated_image_150.jpeg",
+        "prompts": " A man in a t-shirt and shorts is sitting on the ground holding a cup while a bottle of water lays beside him .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4001,
+        "real_image_file_name": "4631265529.jpg",
+        "fake_image_file_name": "generated_image_151.jpeg",
+        "prompts": " A man that appears to be homeless lays in front of a yellow garage door .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4002,
+        "real_image_file_name": "4631310439.jpg",
+        "fake_image_file_name": "generated_image_152.jpeg",
+        "prompts": " A group of people , the majority of whom are male , are standing at the foot of a flight of stairs looking up .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4003,
+        "real_image_file_name": "4631313449.jpg",
+        "fake_image_file_name": "generated_image_153.jpeg",
+        "prompts": " A man wearing a white shirt and dark pants is standing at the railing outside a building with Asian language writing displayed on it .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4004,
+        "real_image_file_name": "4631334859.jpg",
+        "fake_image_file_name": "generated_image_154.jpeg",
+        "prompts": " An adult , who is holding an umbrella , is walking down the sidewalk along side a child .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4005,
+        "real_image_file_name": "4631421666.jpg",
+        "fake_image_file_name": "generated_image_155.jpeg",
+        "prompts": " There is a group of people standing around including what appears to be a person in a bear costume with the head in their hand .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4006,
+        "real_image_file_name": "4631421876.jpg",
+        "fake_image_file_name": "generated_image_156.jpeg",
+        "prompts": " A slender women in a bikini outside surrounded by people on what appears to be a stripper pole .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4007,
+        "real_image_file_name": "4631422940.jpg",
+        "fake_image_file_name": "generated_image_157.jpeg",
+        "prompts": " Dark silhouette of woman sitting in a suspended acrobatic ring near trees .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4008,
+        "real_image_file_name": "4631424466.jpg",
+        "fake_image_file_name": "generated_image_158.jpeg",
+        "prompts": " Several people are lounging in the grass with a large crowd of people behind them .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4009,
+        "real_image_file_name": "4631424884.jpg",
+        "fake_image_file_name": "generated_image_159.jpeg",
+        "prompts": " A trapeze artist dangles from fabric in front of a crowd of onlookers in a park .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4010,
+        "real_image_file_name": "4631476946.jpg",
+        "fake_image_file_name": "generated_image_160.jpeg",
+        "prompts": " A woman with her face painted wears silverware like a necklace and a crown .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4011,
+        "real_image_file_name": "4631730020.jpg",
+        "fake_image_file_name": "generated_image_161.jpeg",
+        "prompts": " Three people , including a woman holding a white umbrella and a man wearing a red baseball hat and red jacket , are standing in a plaza next to street in a city .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4012,
+        "real_image_file_name": "4631804601.jpg",
+        "fake_image_file_name": "generated_image_162.jpeg",
+        "prompts": " A man is working on a project with wood , a tool , and a wheel .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4013,
+        "real_image_file_name": "4631830645.jpg",
+        "fake_image_file_name": "generated_image_163.jpeg",
+        "prompts": " Women in culture-specific attire dancing and singing .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4014,
+        "real_image_file_name": "4631831983.jpg",
+        "fake_image_file_name": "generated_image_164.jpeg",
+        "prompts": " A group of people who are wearing costumes are standing in front of a blue building .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4015,
+        "real_image_file_name": "4631832689.jpg",
+        "fake_image_file_name": "generated_image_165.jpeg",
+        "prompts": " A man in a green jacket sitting in front of a wall of paintings and pictures that are for sale .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4016,
+        "real_image_file_name": "4631838133.jpg",
+        "fake_image_file_name": "generated_image_166.jpeg",
+        "prompts": " A bearded man , using a wooden pole , stirs bowl-like objects around in a large metal box filled with water .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4017,
+        "real_image_file_name": "4631840705.jpg",
+        "fake_image_file_name": "generated_image_167.jpeg",
+        "prompts": " A man climbing the side of a cliff and with another man at the base helping him .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4018,
+        "real_image_file_name": "4631909374.jpg",
+        "fake_image_file_name": "generated_image_168.jpeg",
+        "prompts": " A man bends down in an outdoor area that is also covered while birds walk around him .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4019,
+        "real_image_file_name": "4631915030.jpg",
+        "fake_image_file_name": "generated_image_169.jpeg",
+        "prompts": " A woman wearing a green and white shirt and a cap is smiling , while another woman wearing a gray shirt and white cap is facing her .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4020,
+        "real_image_file_name": "4631958466.jpg",
+        "fake_image_file_name": "generated_image_170.jpeg",
+        "prompts": " 2 women walk down the sidewalk wearing gloves , face masks and carrying brooms .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4021,
+        "real_image_file_name": "4632399460.jpg",
+        "fake_image_file_name": "generated_image_171.jpeg",
+        "prompts": " a man in a bright orange shirt and black jeans holds an ice cream cone out of a small vending cooler while other people stand around .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4022,
+        "real_image_file_name": "463246331.jpg",
+        "fake_image_file_name": "generated_image_172.jpeg",
+        "prompts": " Two asian women working in a restaurant prepare meals .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4023,
+        "real_image_file_name": "4632504882.jpg",
+        "fake_image_file_name": "generated_image_173.jpeg",
+        "prompts": " A man with a loudspeaker stands in front of a bicycle with a flag mounted on it , viewed from above .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4024,
+        "real_image_file_name": "4632869465.jpg",
+        "fake_image_file_name": "generated_image_174.jpeg",
+        "prompts": " A blond girl smiles while holding flowers and her diploma after a graduation ceremony .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4025,
+        "real_image_file_name": "4632905427.jpg",
+        "fake_image_file_name": "generated_image_175.jpeg",
+        "prompts": " A man with a green and red hat , wearing a purple shirt and blue pants , walks between a cement wall and a tree .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4026,
+        "real_image_file_name": "4633043171.jpg",
+        "fake_image_file_name": "generated_image_176.jpeg",
+        "prompts": " An old man wearing a gray jacket is looking at a red bus on the street next to a large sign .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4027,
+        "real_image_file_name": "4633066958.jpg",
+        "fake_image_file_name": "generated_image_177.jpeg",
+        "prompts": " Children playing inside huge bubbles as they float in a large pool of water .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4028,
+        "real_image_file_name": "4633221176.jpg",
+        "fake_image_file_name": "generated_image_178.jpeg",
+        "prompts": " A baby wearing a pink outfit with flowers on it has its mouth open .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4029,
+        "real_image_file_name": "4633260902.jpg",
+        "fake_image_file_name": "generated_image_179.jpeg",
+        "prompts": " A large group of police dressed in riot gear walk down a street .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4030,
+        "real_image_file_name": "4633283026.jpg",
+        "fake_image_file_name": "generated_image_180.jpeg",
+        "prompts": " Two men run a race next to each other ; one is listening to music .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4031,
+        "real_image_file_name": "4633393040.jpg",
+        "fake_image_file_name": "generated_image_181.jpeg",
+        "prompts": " This is a woman sitting on some steps resting her eyes and daydreaming .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4032,
+        "real_image_file_name": "4633636089.jpg",
+        "fake_image_file_name": "generated_image_182.jpeg",
+        "prompts": " A teenage boy is jumping his bicycle over a large dirt hill .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4033,
+        "real_image_file_name": "4633639059.jpg",
+        "fake_image_file_name": "generated_image_183.jpeg",
+        "prompts": " A rider dressed in black on a green bike is in midair against a backdrop of trees and a pink hill .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4034,
+        "real_image_file_name": "4633771017.jpg",
+        "fake_image_file_name": "generated_image_184.jpeg",
+        "prompts": " A lady wearing a white dress and a man in a red striped shirt are dancing .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4035,
+        "real_image_file_name": "4633772793.jpg",
+        "fake_image_file_name": "generated_image_185.jpeg",
+        "prompts": " A man wearing a goatee and knit cap is next to a woman with a black umbrella in the foreground of a group of attentive people .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4036,
+        "real_image_file_name": "4633788691.jpg",
+        "fake_image_file_name": "generated_image_186.jpeg",
+        "prompts": " Two women in bathing suits are together in a two-seat kayak in water with trees in the background .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4037,
+        "real_image_file_name": "4633900611.jpg",
+        "fake_image_file_name": "generated_image_187.jpeg",
+        "prompts": " Two men wearing shorts and boxing gloves are standing in a boxing ring and hitting each other in the face",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4038,
+        "real_image_file_name": "4634063005.jpg",
+        "fake_image_file_name": "generated_image_188.jpeg",
+        "prompts": " An older woman and a young girl face each other over a kitchen counter .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4039,
+        "real_image_file_name": "4634073036.jpg",
+        "fake_image_file_name": "generated_image_189.jpeg",
+        "prompts": " The man wore a helmet when he became a human bowling ball by riding a skateboard into the pins .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4040,
+        "real_image_file_name": "4634099785.jpg",
+        "fake_image_file_name": "generated_image_190.jpeg",
+        "prompts": " A man in a black jacket with black pants is walking down a street of buildings .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4041,
+        "real_image_file_name": "4634174359.jpg",
+        "fake_image_file_name": "generated_image_191.jpeg",
+        "prompts": " A man in gray uniform is cutting something on the ground while a man in white uniform is watching him .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4042,
+        "real_image_file_name": "4634390308.jpg",
+        "fake_image_file_name": "generated_image_192.jpeg",
+        "prompts": " A boy stands in the grass waving the flag of his home nation .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4043,
+        "real_image_file_name": "4634392868.jpg",
+        "fake_image_file_name": "generated_image_193.jpeg",
+        "prompts": " A man dressed in ceremonial clothing is dancing outside with people following him waving their hands .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4044,
+        "real_image_file_name": "463439358.jpg",
+        "fake_image_file_name": "generated_image_194.jpeg",
+        "prompts": " A fisherman skins his most recently caught trout fish from the rocky banks of Lake Eerie on a beautiful partially sunny day , with a breeze blowing and the water moving as the fish swim .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4045,
+        "real_image_file_name": "4634534829.jpg",
+        "fake_image_file_name": "generated_image_195.jpeg",
+        "prompts": " A woman in a light blue hoodie sweatshirt is holding a row of shots .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4046,
+        "real_image_file_name": "4634549541.jpg",
+        "fake_image_file_name": "generated_image_196.jpeg",
+        "prompts": " A young gentleman with brown hair , sporting his sunglasses atop his head , enjoys a refreshing drink as he peruses a menu .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4047,
+        "real_image_file_name": "4634560309.jpg",
+        "fake_image_file_name": "generated_image_197.jpeg",
+        "prompts": " A man in a blue plaid shirt is touching a lady who is smiling with blond-hair and a brown plaid scarf around her neck .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4048,
+        "real_image_file_name": "463475838.jpg",
+        "fake_image_file_name": "generated_image_198.jpeg",
+        "prompts": " A crowd of Asian people standing in line to buy tickets at the window .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4049,
+        "real_image_file_name": "463476205.jpg",
+        "fake_image_file_name": "generated_image_199.jpeg",
+        "prompts": " A man on a motorcycle is riding in the street in the rain along with two green cabs and other vehicles .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4050,
+        "real_image_file_name": "463478807.jpg",
+        "fake_image_file_name": "generated_image_200.jpeg",
+        "prompts": " A crowded sidewalk with people on it separated from the street by metal barriers .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4051,
+        "real_image_file_name": "4634848106.jpg",
+        "fake_image_file_name": "generated_image_201.jpeg",
+        "prompts": " A group of people in white shirts stand on a grass pitch covered with many dark balls .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4052,
+        "real_image_file_name": "4634886147.jpg",
+        "fake_image_file_name": "generated_image_202.jpeg",
+        "prompts": " A man in an onyx helmet plays an electronic flute as men watch , standing by some bicycles outdoors .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4053,
+        "real_image_file_name": "46348866.jpg",
+        "fake_image_file_name": "generated_image_203.jpeg",
+        "prompts": " A man who controls a food cart , stands and looks at the photographer while doing something on top of the cart .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4054,
+        "real_image_file_name": "46348868.jpg",
+        "fake_image_file_name": "generated_image_204.jpeg",
+        "prompts": " A man wearing a red shirt and sandals is putting air into his bicycle 's rear tire while a man in a white shirt holds the bicycle and a woman in a green floral dress watches .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4055,
+        "real_image_file_name": "4635028428.jpg",
+        "fake_image_file_name": "generated_image_205.jpeg",
+        "prompts": " A lady in a red shirt looking at items for sale at a garage sale .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4056,
+        "real_image_file_name": "4635113623.jpg",
+        "fake_image_file_name": "generated_image_206.jpeg",
+        "prompts": " A young man leans against a light pole next to a full trashcan while a bus decorated with an image of the Statue of Liberty and a flag passes on the street .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4057,
+        "real_image_file_name": "4635157412.jpg",
+        "fake_image_file_name": "generated_image_207.jpeg",
+        "prompts": " Two men are standing on a ledge looking over a railing .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4058,
+        "real_image_file_name": "463551598.jpg",
+        "fake_image_file_name": "generated_image_208.jpeg",
+        "prompts": " A busy plaza with three young women with an umbrella and buckets full of possessions , possibly homeless .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4059,
+        "real_image_file_name": "463554115.jpg",
+        "fake_image_file_name": "generated_image_209.jpeg",
+        "prompts": " An Asian lady wearing a blue blouse and an umbrella in her right hand waiting for somebody to come and pick her up because she has a lot of baggage with her .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4060,
+        "real_image_file_name": "463568380.jpg",
+        "fake_image_file_name": "generated_image_210.jpeg",
+        "prompts": " A group of people in a foreign country some carry packages , come walking , some standing .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4061,
+        "real_image_file_name": "463571374.jpg",
+        "fake_image_file_name": "generated_image_211.jpeg",
+        "prompts": " Many people walk and stand on a crowded street , carrying bags .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4062,
+        "real_image_file_name": "4635771697.jpg",
+        "fake_image_file_name": "generated_image_212.jpeg",
+        "prompts": " A baby girl , wearing a white sweater , pink blouse , blue pants , and black shoes , is sitting on a green and white striped blanket on grass .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4063,
+        "real_image_file_name": "4635783933.jpg",
+        "fake_image_file_name": "generated_image_213.jpeg",
+        "prompts": " Several people travel toward a building in which food and drinks are served .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4064,
+        "real_image_file_name": "4636054805.jpg",
+        "fake_image_file_name": "generated_image_214.jpeg",
+        "prompts": " Two older people , one man and one woman , sit on a bench with a cityscape in the background .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4065,
+        "real_image_file_name": "4636055948.jpg",
+        "fake_image_file_name": "generated_image_215.jpeg",
+        "prompts": " A woman wearing a sundress with flowers on it is walking down a country path carrying a pink bucket .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4066,
+        "real_image_file_name": "46360594.jpg",
+        "fake_image_file_name": "generated_image_216.jpeg",
+        "prompts": " Two girls are seated behind a table festooned with toys , including a blue Furby , two pink bunny dolls , and assorted figurines and stuffed animals .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4067,
+        "real_image_file_name": "463608562.jpg",
+        "fake_image_file_name": "generated_image_217.jpeg",
+        "prompts": " A man in tan pants and a red shirt is grilling something in a backyard .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4068,
+        "real_image_file_name": "4636277239.jpg",
+        "fake_image_file_name": "generated_image_218.jpeg",
+        "prompts": " A tourist dressed in black with long red-hair stands at a blue gate ready to take a photo with the camera strapped around her neck .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4069,
+        "real_image_file_name": "4636392873.jpg",
+        "fake_image_file_name": "generated_image_219.jpeg",
+        "prompts": " A man dressed in a tweed coat with vest and pocket-watch stands with his hands above his ahead before a group of children sitting on the floor with shelves of books in the background .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4070,
+        "real_image_file_name": "4563644936.jpg",
+        "fake_image_file_name": "generated_image_220.jpeg",
+        "prompts": " A bearded man wearing a painter 's cap is playing the xylophone on the side of a busy walkway .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4071,
+        "real_image_file_name": "4563782751.jpg",
+        "fake_image_file_name": "generated_image_221.jpeg",
+        "prompts": " A parade with men and women in blue blowing instruments , and beating drums standing in front of a building .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4072,
+        "real_image_file_name": "4563881172.jpg",
+        "fake_image_file_name": "generated_image_222.jpeg",
+        "prompts": " A black-haired asian lady wearing a hooded jacket holding a digital camera .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4073,
+        "real_image_file_name": "4564119814.jpg",
+        "fake_image_file_name": "generated_image_223.jpeg",
+        "prompts": " People walk down a city street at nighttime in front of construction and a \" Do Not Enter \" street sign .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4074,
+        "real_image_file_name": "4564173492.jpg",
+        "fake_image_file_name": "generated_image_224.jpeg",
+        "prompts": " People sitting on the ledges surrounding steps and a tiled wall .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4075,
+        "real_image_file_name": "4564174382.jpg",
+        "fake_image_file_name": "generated_image_225.jpeg",
+        "prompts": " A young , bearded man in colorful garb sits barefoot with a bag in his hand and a pile of refuse next to him .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4076,
+        "real_image_file_name": "4564192674.jpg",
+        "fake_image_file_name": "generated_image_226.jpeg",
+        "prompts": " A teen boy in a blue tie dyed shirt and a red hat is standing outside against a tile wall .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4077,
+        "real_image_file_name": "4564193650.jpg",
+        "fake_image_file_name": "generated_image_227.jpeg",
+        "prompts": " A person wearing a green sweatshirt is walking on a ledge of a building .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4078,
+        "real_image_file_name": "4564230367.jpg",
+        "fake_image_file_name": "generated_image_228.jpeg",
+        "prompts": " Two dark-skinned men are sitting beside one another on a sidewalk with baskets and trays spread around them while an umbrella is providing them shade .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4079,
+        "real_image_file_name": "4564320256.jpg",
+        "fake_image_file_name": "generated_image_229.jpeg",
+        "prompts": " An elderly lady with a young girl are sitting , surrounded by newspapers cigarettes and candy .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4080,
+        "real_image_file_name": "4564451257.jpg",
+        "fake_image_file_name": "generated_image_230.jpeg",
+        "prompts": " A man in an orange top and blue pants carries a lot of boxes while a woman pulling a pink bag goes in the other direction .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4081,
+        "real_image_file_name": "4564452393.jpg",
+        "fake_image_file_name": "generated_image_231.jpeg",
+        "prompts": " Two smiling people walk down the street pushing a car filled with various fruits and flowers .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4082,
+        "real_image_file_name": "4564454239.jpg",
+        "fake_image_file_name": "generated_image_232.jpeg",
+        "prompts": " An elderly man in a gray jacket is riding his bike down the street .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4083,
+        "real_image_file_name": "4564468036.jpg",
+        "fake_image_file_name": "generated_image_233.jpeg",
+        "prompts": " Mannequins in elaborate and festive dress have been arranged into a scene of celebration .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4084,
+        "real_image_file_name": "4564825449.jpg",
+        "fake_image_file_name": "generated_image_234.jpeg",
+        "prompts": " A woman wearing rubber boots sits in the grass and eats a waffle .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4085,
+        "real_image_file_name": "4564857014.jpg",
+        "fake_image_file_name": "generated_image_235.jpeg",
+        "prompts": " Two umbrellas with people attached to them waiting for a bus to pass .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4086,
+        "real_image_file_name": "4565044083.jpg",
+        "fake_image_file_name": "generated_image_236.jpeg",
+        "prompts": " Two people wearing jackets are sitting down outside with their backs turned while a woman in a red sweater and blue jeans is sitting down facing forward .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4087,
+        "real_image_file_name": "4565051147.jpg",
+        "fake_image_file_name": "generated_image_237.jpeg",
+        "prompts": " A woman in a yellow shirt and blue jacket holds hands with a man in a blue jacket and black shirt while walking past a gray-blue manhole cover .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4088,
+        "real_image_file_name": "4565079276.jpg",
+        "fake_image_file_name": "generated_image_238.jpeg",
+        "prompts": " A woman is riding a bicycle down a sidewalk in a market district with cars parked behind her .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4089,
+        "real_image_file_name": "4565080084.jpg",
+        "fake_image_file_name": "generated_image_239.jpeg",
+        "prompts": " A man in a red-and-white jacket and black pants rides a bicycle down the street in a commercial district .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4090,
+        "real_image_file_name": "4565081074.jpg",
+        "fake_image_file_name": "generated_image_240.jpeg",
+        "prompts": " A young woman dressed in black attaches bags full of flowers to a bicycle .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4091,
+        "real_image_file_name": "4565084634.jpg",
+        "fake_image_file_name": "generated_image_241.jpeg",
+        "prompts": " A man and a woman walk down the street carrying groceries .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4092,
+        "real_image_file_name": "456512643.jpg",
+        "fake_image_file_name": "generated_image_242.jpeg",
+        "prompts": " A tan dog is running fast through tall green grass .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4093,
+        "real_image_file_name": "4565138772.jpg",
+        "fake_image_file_name": "generated_image_243.jpeg",
+        "prompts": " A man in glasses is yelling and holding a sign that says \" jobs with justice \" .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4094,
+        "real_image_file_name": "4565259835.jpg",
+        "fake_image_file_name": "generated_image_244.jpeg",
+        "prompts": " An older Asian women is showing off some vegetables she just collected from a field .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4095,
+        "real_image_file_name": "4565356389.jpg",
+        "fake_image_file_name": "generated_image_245.jpeg",
+        "prompts": " A man and a woman standing against a white wall taking a picture with shadows against the wall .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4096,
+        "real_image_file_name": "4565405799.jpg",
+        "fake_image_file_name": "generated_image_246.jpeg",
+        "prompts": " A little girl in a red shirt and purple tights sits surrounded by clothes and holding a book .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4097,
+        "real_image_file_name": "4565680744.jpg",
+        "fake_image_file_name": "generated_image_247.jpeg",
+        "prompts": " Two men dressed in layered clothing are talking to a woman in a brown jacket .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4098,
+        "real_image_file_name": "4565706377.jpg",
+        "fake_image_file_name": "generated_image_248.jpeg",
+        "prompts": " A young girl rearing a purple jacket with white polka dots sweeps up leaves .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4099,
+        "real_image_file_name": "4565935527.jpg",
+        "fake_image_file_name": "generated_image_249.jpeg",
+        "prompts": " Two girls , a man , and a woman smile for a picture in a public place .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4100,
+        "real_image_file_name": "4565938357.jpg",
+        "fake_image_file_name": "generated_image_250.jpeg",
+        "prompts": " A woman in a tan dress black stockings and tan flats walks cross a crowded square .",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4101,
+        "real_image_file_name": "000000551633.jpg",
+        "fake_image_file_name": "generated_image_251.jpeg",
+        "prompts": " a little girl playing with a soccer ball ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4102,
+        "real_image_file_name": "000000170015.jpg",
+        "fake_image_file_name": "generated_image_252.jpeg",
+        "prompts": " Three ladies working in a confectionery with baked goods behind them",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4103,
+        "real_image_file_name": "000000126631.jpg",
+        "fake_image_file_name": "generated_image_253.jpeg",
+        "prompts": " A tennis player with racket and a bag with a baby",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4104,
+        "real_image_file_name": "000000333712.jpg",
+        "fake_image_file_name": "generated_image_254.jpeg",
+        "prompts": " A small pizza with toppings and a pizza cutter.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4105,
+        "real_image_file_name": "000000449958.jpg",
+        "fake_image_file_name": "generated_image_255.jpeg",
+        "prompts": " A man flying through the air while riding a skateboard.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4106,
+        "real_image_file_name": "000000078771.jpg",
+        "fake_image_file_name": "generated_image_256.jpeg",
+        "prompts": " A cat sitting next to a laptop computer on a table.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4107,
+        "real_image_file_name": "000000233236.jpg",
+        "fake_image_file_name": "generated_image_257.jpeg",
+        "prompts": " A large green couch sitting on top of a wooden floor.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4108,
+        "real_image_file_name": "000000116023.jpg",
+        "fake_image_file_name": "generated_image_258.jpeg",
+        "prompts": " A tennis player holding a racket and ball",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4109,
+        "real_image_file_name": "000000184241.jpg",
+        "fake_image_file_name": "generated_image_259.jpeg",
+        "prompts": " A tennis player seated on a bench with a bag while holding two rackets",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4110,
+        "real_image_file_name": "000000471004.jpg",
+        "fake_image_file_name": "generated_image_260.jpeg",
+        "prompts": " A person swinging a tennis racket on a tennis court. ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4111,
+        "real_image_file_name": "000000129862.jpg",
+        "fake_image_file_name": "generated_image_261.jpeg",
+        "prompts": " A man standing next to a woman in front of a table.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4112,
+        "real_image_file_name": "000000332851.jpg",
+        "fake_image_file_name": "generated_image_262.jpeg",
+        "prompts": " A man riding on top of a paddle board.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4113,
+        "real_image_file_name": "000000342302.jpg",
+        "fake_image_file_name": "generated_image_263.jpeg",
+        "prompts": " a man on a skating board with his hands up",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4114,
+        "real_image_file_name": "000000244823.jpg",
+        "fake_image_file_name": "generated_image_264.jpeg",
+        "prompts": " An old tv lies broken on a beautiful beach.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4115,
+        "real_image_file_name": "000000296724.jpg",
+        "fake_image_file_name": "generated_image_265.jpeg",
+        "prompts": " A pink and red couch in a room with a pink rug.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4116,
+        "real_image_file_name": "000000295956.jpg",
+        "fake_image_file_name": "generated_image_266.jpeg",
+        "prompts": " Two women are playing a game of tennis on a green court.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4117,
+        "real_image_file_name": "000000503294.jpg",
+        "fake_image_file_name": "generated_image_267.jpeg",
+        "prompts": " a black and white cats walking in the living room",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4118,
+        "real_image_file_name": "000000223540.jpg",
+        "fake_image_file_name": "generated_image_268.jpeg",
+        "prompts": " An office with a computer desk and a musical keyboard.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4119,
+        "real_image_file_name": "000000355776.jpg",
+        "fake_image_file_name": "generated_image_269.jpeg",
+        "prompts": " A little girl in her underwear brushing her teeth in black vinyl boots.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4120,
+        "real_image_file_name": "000000190423.jpg",
+        "fake_image_file_name": "generated_image_270.jpeg",
+        "prompts": " A woman prepares to release her bowling ball. ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4121,
+        "real_image_file_name": "000000124629.jpg",
+        "fake_image_file_name": "generated_image_271.jpeg",
+        "prompts": " An older woman standing next to two children.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4122,
+        "real_image_file_name": "000000261757.jpg",
+        "fake_image_file_name": "generated_image_272.jpeg",
+        "prompts": " a pizza on a wooden table ready to be cooked",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4123,
+        "real_image_file_name": "000000332025.jpg",
+        "fake_image_file_name": "generated_image_273.jpeg",
+        "prompts": " A woman holding a dog close to a group of people with skiing gear ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4124,
+        "real_image_file_name": "000000333240.jpg",
+        "fake_image_file_name": "generated_image_274.jpeg",
+        "prompts": " A cheese covered pizza sitting on top of a counter.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4125,
+        "real_image_file_name": "000000408192.jpg",
+        "fake_image_file_name": "generated_image_275.jpeg",
+        "prompts": " A living room filled with furniture and a fire place.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4126,
+        "real_image_file_name": "000000030012.jpg",
+        "fake_image_file_name": "generated_image_276.jpeg",
+        "prompts": " a very larg pizza with some nice toppings on it",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4127,
+        "real_image_file_name": "000000555696.jpg",
+        "fake_image_file_name": "generated_image_277.jpeg",
+        "prompts": " a group of people that is in field kicking a ball",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4128,
+        "real_image_file_name": "000000007519.jpg",
+        "fake_image_file_name": "generated_image_278.jpeg",
+        "prompts": " A man in foodservice holding baskets with food.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4129,
+        "real_image_file_name": "000000372861.jpg",
+        "fake_image_file_name": "generated_image_279.jpeg",
+        "prompts": " A bed with a lot of pillows is next to a nightstand.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4130,
+        "real_image_file_name": "000000049648.jpg",
+        "fake_image_file_name": "generated_image_280.jpeg",
+        "prompts": " A young man kicking around a soccer ball on a field.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4131,
+        "real_image_file_name": "000000201685.jpg",
+        "fake_image_file_name": "generated_image_281.jpeg",
+        "prompts": " A young man is surfing on an ocean wave.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4132,
+        "real_image_file_name": "000000551921.jpg",
+        "fake_image_file_name": "generated_image_282.jpeg",
+        "prompts": " A woman holding a surfboard standing on rocks by the ocean ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4133,
+        "real_image_file_name": "000000021746.jpg",
+        "fake_image_file_name": "generated_image_283.jpeg",
+        "prompts": " A woman hitting a tennis ball on the tennis court ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4134,
+        "real_image_file_name": "000000375621.jpg",
+        "fake_image_file_name": "generated_image_284.jpeg",
+        "prompts": " A man wearing glasses eating a sprinkle covered doughnut.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4135,
+        "real_image_file_name": "000000049688.jpg",
+        "fake_image_file_name": "generated_image_285.jpeg",
+        "prompts": " a person riding a wave on top of a surfboard.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4136,
+        "real_image_file_name": "000000343068.jpg",
+        "fake_image_file_name": "generated_image_286.jpeg",
+        "prompts": " a bed that is in a room with brick walls",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4137,
+        "real_image_file_name": "000000079396.jpg",
+        "fake_image_file_name": "generated_image_287.jpeg",
+        "prompts": " A boy in a bath tub with a toy in his mouth.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4138,
+        "real_image_file_name": "000000540159.jpg",
+        "fake_image_file_name": "generated_image_288.jpeg",
+        "prompts": " A very nice looking living room with a couch.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4139,
+        "real_image_file_name": "000000056430.jpg",
+        "fake_image_file_name": "generated_image_289.jpeg",
+        "prompts": " A knife is sitting on a plate of food",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4140,
+        "real_image_file_name": "000000320428.jpg",
+        "fake_image_file_name": "generated_image_290.jpeg",
+        "prompts": " A man is striking a tennis ball at a game",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4141,
+        "real_image_file_name": "000000111347.jpg",
+        "fake_image_file_name": "generated_image_291.jpeg",
+        "prompts": " A toddler smiles in front of a toy train set on a table.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4142,
+        "real_image_file_name": "000000398236.jpg",
+        "fake_image_file_name": "generated_image_292.jpeg",
+        "prompts": " A big very tasty looking sandwich filled with some meat.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4143,
+        "real_image_file_name": "000000497049.jpg",
+        "fake_image_file_name": "generated_image_293.jpeg",
+        "prompts": " Three friends are all looking at something on the television.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4144,
+        "real_image_file_name": "000000455720.jpg",
+        "fake_image_file_name": "generated_image_294.jpeg",
+        "prompts": " Some people gathered at a very big table with a big cake.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4145,
+        "real_image_file_name": "000000440528.jpg",
+        "fake_image_file_name": "generated_image_295.jpeg",
+        "prompts": " a cake sits on top of a holder by some fruit ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4146,
+        "real_image_file_name": "000000544246.jpg",
+        "fake_image_file_name": "generated_image_296.jpeg",
+        "prompts": " a cookie made into a bear with a bib on ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4147,
+        "real_image_file_name": "000000279331.jpg",
+        "fake_image_file_name": "generated_image_297.jpeg",
+        "prompts": " a small dog on a leash with a racket",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4148,
+        "real_image_file_name": "000000342831.jpg",
+        "fake_image_file_name": "generated_image_298.jpeg",
+        "prompts": " A man and two women sitting on a bed and one woman with a guitar.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4149,
+        "real_image_file_name": "000000302555.jpg",
+        "fake_image_file_name": "generated_image_299.jpeg",
+        "prompts": " A plate of food next to a cup of black coffee.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4150,
+        "real_image_file_name": "000000423204.jpg",
+        "fake_image_file_name": "generated_image_300.jpeg",
+        "prompts": " An older man sitting at a table with a birthday  cake in front of him with candles on it.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4151,
+        "real_image_file_name": "000000526580.jpg",
+        "fake_image_file_name": "generated_image_301.jpeg",
+        "prompts": " Two men close to each other with a video game remote in their hand.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4152,
+        "real_image_file_name": "000000303069.jpg",
+        "fake_image_file_name": "generated_image_302.jpeg",
+        "prompts": " A loving couple who has fallen to sleep together on a couch. ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4153,
+        "real_image_file_name": "000000136181.jpg",
+        "fake_image_file_name": "generated_image_303.jpeg",
+        "prompts": " A white bed with a turquoise blanket with a two piece painting hanging above it. ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4154,
+        "real_image_file_name": "000000090306.jpg",
+        "fake_image_file_name": "generated_image_304.jpeg",
+        "prompts": " A man in the air on a snowboard above a blue bed. ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4155,
+        "real_image_file_name": "000000184276.jpg",
+        "fake_image_file_name": "generated_image_305.jpeg",
+        "prompts": " A male tennis player in action on the court.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4156,
+        "real_image_file_name": "000000035567.jpg",
+        "fake_image_file_name": "generated_image_306.jpeg",
+        "prompts": " A lady with a young girl standing in front of a few english muffins. ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4157,
+        "real_image_file_name": "000000252054.jpg",
+        "fake_image_file_name": "generated_image_307.jpeg",
+        "prompts": " A young girl is smiling with a doughnut in front of her.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4158,
+        "real_image_file_name": "000000327315.jpg",
+        "fake_image_file_name": "generated_image_308.jpeg",
+        "prompts": " A cake with a golf scene decorated on it. ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4159,
+        "real_image_file_name": "000000230877.jpg",
+        "fake_image_file_name": "generated_image_309.jpeg",
+        "prompts": " A woman on a surfboard is riding on a wave",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4160,
+        "real_image_file_name": "000000091373.jpg",
+        "fake_image_file_name": "generated_image_310.jpeg",
+        "prompts": " A group of people exercising on the beach.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4161,
+        "real_image_file_name": "000000487266.jpg",
+        "fake_image_file_name": "generated_image_311.jpeg",
+        "prompts": " A group photo of a tennis team on the court.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4162,
+        "real_image_file_name": "000000389503.jpg",
+        "fake_image_file_name": "generated_image_312.jpeg",
+        "prompts": " a man is surfing down a narrow river",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4163,
+        "real_image_file_name": "000000054517.jpg",
+        "fake_image_file_name": "generated_image_313.jpeg",
+        "prompts": " a sandwich is cut in half with sodas",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4164,
+        "real_image_file_name": "000000143305.jpg",
+        "fake_image_file_name": "generated_image_314.jpeg",
+        "prompts": " A man riding a board through the air under a blue cloudy sky.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4165,
+        "real_image_file_name": "000000555144.jpg",
+        "fake_image_file_name": "generated_image_315.jpeg",
+        "prompts": " A group of young men and women standing around a screen.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4166,
+        "real_image_file_name": "000000142924.jpg",
+        "fake_image_file_name": "generated_image_316.jpeg",
+        "prompts": " A man standing on a tennis court holding a racquet.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4167,
+        "real_image_file_name": "000000210777.jpg",
+        "fake_image_file_name": "generated_image_317.jpeg",
+        "prompts": " The young child is eating a sandwich while the adults prepare food.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4168,
+        "real_image_file_name": "000000512182.jpg",
+        "fake_image_file_name": "generated_image_318.jpeg",
+        "prompts": " a young boy playing with a wii mote and a video game ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4169,
+        "real_image_file_name": "000000405973.jpg",
+        "fake_image_file_name": "generated_image_319.jpeg",
+        "prompts": " A man holding a game controller in his right hand.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4170,
+        "real_image_file_name": "000000490705.jpg",
+        "fake_image_file_name": "generated_image_320.jpeg",
+        "prompts": " The two women are surfing through the waves.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4171,
+        "real_image_file_name": "000000405261.jpg",
+        "fake_image_file_name": "generated_image_321.jpeg",
+        "prompts": " Two people eating biscuits on a brown table. ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4172,
+        "real_image_file_name": "000000242301.jpg",
+        "fake_image_file_name": "generated_image_322.jpeg",
+        "prompts": " Three people who are jumping on a bed.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4173,
+        "real_image_file_name": "000000249246.jpg",
+        "fake_image_file_name": "generated_image_323.jpeg",
+        "prompts": " Lots of people are surfing and swimming in the ocean.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4174,
+        "real_image_file_name": "000000010123.jpg",
+        "fake_image_file_name": "generated_image_324.jpeg",
+        "prompts": " A woman swinging a tennis racket at a tennis ball.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4175,
+        "real_image_file_name": "000000324189.jpg",
+        "fake_image_file_name": "generated_image_325.jpeg",
+        "prompts": " A surfboard is recycled into a unique planter.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4176,
+        "real_image_file_name": "000000325027.jpg",
+        "fake_image_file_name": "generated_image_326.jpeg",
+        "prompts": " A hand is lifting up the top bread of a sub sandwich.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4177,
+        "real_image_file_name": "000000355453.jpg",
+        "fake_image_file_name": "generated_image_327.jpeg",
+        "prompts": " a boy in his bed has food set in front of him",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4178,
+        "real_image_file_name": "000000436203.jpg",
+        "fake_image_file_name": "generated_image_328.jpeg",
+        "prompts": " Skier on the top of a ski course being followed by another rider. ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4179,
+        "real_image_file_name": "000000387042.jpg",
+        "fake_image_file_name": "generated_image_329.jpeg",
+        "prompts": " A man swinging a tennis racquet on top of a tennis court.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4180,
+        "real_image_file_name": "000000545390.jpg",
+        "fake_image_file_name": "generated_image_330.jpeg",
+        "prompts": " A woman holding a pizza up in the air.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4181,
+        "real_image_file_name": "000000491478.jpg",
+        "fake_image_file_name": "generated_image_331.jpeg",
+        "prompts": " A sandwich sitting on top of a white plate.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4182,
+        "real_image_file_name": "000000513789.jpg",
+        "fake_image_file_name": "generated_image_332.jpeg",
+        "prompts": " A bed sitting in a bedroom under a window.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4183,
+        "real_image_file_name": "000000449676.jpg",
+        "fake_image_file_name": "generated_image_333.jpeg",
+        "prompts": " A person standing on a beach flying a kite on the beach.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4184,
+        "real_image_file_name": "000000281163.jpg",
+        "fake_image_file_name": "generated_image_334.jpeg",
+        "prompts": " A picture of a hot dog with ketchup and a drink.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4185,
+        "real_image_file_name": "000000420704.jpg",
+        "fake_image_file_name": "generated_image_335.jpeg",
+        "prompts": " A plate with grated coconut and decorations on the table",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4186,
+        "real_image_file_name": "000000250364.jpg",
+        "fake_image_file_name": "generated_image_336.jpeg",
+        "prompts": " A man and a baby laying on a matress.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4187,
+        "real_image_file_name": "000000004700.jpg",
+        "fake_image_file_name": "generated_image_337.jpeg",
+        "prompts": " A group of boys playing soccer on a field.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4188,
+        "real_image_file_name": "000000173959.jpg",
+        "fake_image_file_name": "generated_image_338.jpeg",
+        "prompts": " A group of children playing a game of soccer.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4189,
+        "real_image_file_name": "000000221620.jpg",
+        "fake_image_file_name": "generated_image_339.jpeg",
+        "prompts": " A white tray topped with donuts near a bag.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4190,
+        "real_image_file_name": "000000002171.jpg",
+        "fake_image_file_name": "generated_image_340.jpeg",
+        "prompts": " A group of people riding boards in the ocean.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4191,
+        "real_image_file_name": "000000202118.jpg",
+        "fake_image_file_name": "generated_image_341.jpeg",
+        "prompts": " A man standing on a  tennis court holding a racquet.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4192,
+        "real_image_file_name": "000000269450.jpg",
+        "fake_image_file_name": "generated_image_342.jpeg",
+        "prompts": " A set of three white plates covered in food.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4193,
+        "real_image_file_name": "000000530875.jpg",
+        "fake_image_file_name": "generated_image_343.jpeg",
+        "prompts": " A young man on a skateboard in a skate park.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4194,
+        "real_image_file_name": "000000274917.jpg",
+        "fake_image_file_name": "generated_image_344.jpeg",
+        "prompts": " A group of men are cutting a cake.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4195,
+        "real_image_file_name": "000000581557.jpg",
+        "fake_image_file_name": "generated_image_345.jpeg",
+        "prompts": " A man holding a surfboard over his head. ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4196,
+        "real_image_file_name": "000000424208.jpg",
+        "fake_image_file_name": "generated_image_346.jpeg",
+        "prompts": " a t.v. stand that has a t.v. and some other electrical equipment",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4197,
+        "real_image_file_name": "000000045809.jpg",
+        "fake_image_file_name": "generated_image_347.jpeg",
+        "prompts": " Three surfers standing on their boards in a wave.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4198,
+        "real_image_file_name": "000000417044.jpg",
+        "fake_image_file_name": "generated_image_348.jpeg",
+        "prompts": " Girl in a bakery pointing at a donut display.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4199,
+        "real_image_file_name": "000000542302.jpg",
+        "fake_image_file_name": "generated_image_349.jpeg",
+        "prompts": " The man is holding a plate with a sandwich and french fries.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4200,
+        "real_image_file_name": "000000360730.jpg",
+        "fake_image_file_name": "generated_image_350.jpeg",
+        "prompts": " The man is getting ready to eat the thing he is holding.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4201,
+        "real_image_file_name": "000000568358.jpg",
+        "fake_image_file_name": "generated_image_351.jpeg",
+        "prompts": " A silver vat of donuts cooking in oil",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4202,
+        "real_image_file_name": "000000120199.jpg",
+        "fake_image_file_name": "generated_image_352.jpeg",
+        "prompts": " A freshly made pizza is on an oven rack.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4203,
+        "real_image_file_name": "000000046155.jpg",
+        "fake_image_file_name": "generated_image_353.jpeg",
+        "prompts": " this is a tennis player about to hit a tennis ball",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4204,
+        "real_image_file_name": "000000012979.jpg",
+        "fake_image_file_name": "generated_image_354.jpeg",
+        "prompts": " A man does a skateboard trick in the air.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4205,
+        "real_image_file_name": "000000111817.jpg",
+        "fake_image_file_name": "generated_image_355.jpeg",
+        "prompts": " a cake with some cup cakes around it",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4206,
+        "real_image_file_name": "000000486803.jpg",
+        "fake_image_file_name": "generated_image_356.jpeg",
+        "prompts": " a person that is on a snowboard in the air",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4207,
+        "real_image_file_name": "000000470366.jpg",
+        "fake_image_file_name": "generated_image_357.jpeg",
+        "prompts": " fifteen different varieties of doughnuts in a display case",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4208,
+        "real_image_file_name": "000000028850.jpg",
+        "fake_image_file_name": "generated_image_358.jpeg",
+        "prompts": " a big bed with a lamp and bedside table and sliding glass leading to a balcony ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4209,
+        "real_image_file_name": "000000324313.jpg",
+        "fake_image_file_name": "generated_image_359.jpeg",
+        "prompts": " A hospital bed that is in a hospital.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4210,
+        "real_image_file_name": "000000015074.jpg",
+        "fake_image_file_name": "generated_image_360.jpeg",
+        "prompts": " A laptop that is sitting near a desktop.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4211,
+        "real_image_file_name": "000000459752.jpg",
+        "fake_image_file_name": "generated_image_361.jpeg",
+        "prompts": " a man with no shirt holds a toothbrush",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4212,
+        "real_image_file_name": "000000154798.jpg",
+        "fake_image_file_name": "generated_image_362.jpeg",
+        "prompts": " A group of people walking on the beach carrying their surf boards.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4213,
+        "real_image_file_name": "000000411438.jpg",
+        "fake_image_file_name": "generated_image_363.jpeg",
+        "prompts": " A young woman plays tennis on a tennis court.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4214,
+        "real_image_file_name": "000000540581.jpg",
+        "fake_image_file_name": "generated_image_364.jpeg",
+        "prompts": " A young boy who is laying on a skateboard.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4215,
+        "real_image_file_name": "000000550645.jpg",
+        "fake_image_file_name": "generated_image_365.jpeg",
+        "prompts": " The man has a handlebar mustache and he is eating a hot dog. ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4216,
+        "real_image_file_name": "000000219737.jpg",
+        "fake_image_file_name": "generated_image_366.jpeg",
+        "prompts": " A man is playing tennis on a blue court.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4217,
+        "real_image_file_name": "000000184386.jpg",
+        "fake_image_file_name": "generated_image_367.jpeg",
+        "prompts": " A minimalist bedroom with low furniture and a quote on the wall.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4218,
+        "real_image_file_name": "000000319931.jpg",
+        "fake_image_file_name": "generated_image_368.jpeg",
+        "prompts": " There are four white pillows on the bed. ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4219,
+        "real_image_file_name": "000000525211.jpg",
+        "fake_image_file_name": "generated_image_369.jpeg",
+        "prompts": " Chocolate is being inserted into the donut hole.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4220,
+        "real_image_file_name": "000000097592.jpg",
+        "fake_image_file_name": "generated_image_370.jpeg",
+        "prompts": " some kids in a bedroom with a lot of beds in it ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4221,
+        "real_image_file_name": "000000185838.jpg",
+        "fake_image_file_name": "generated_image_371.jpeg",
+        "prompts": " A man riding a skateboard up the side of a ramp.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4222,
+        "real_image_file_name": "000000403500.jpg",
+        "fake_image_file_name": "generated_image_372.jpeg",
+        "prompts": " A man holding a pine cone while wearing a name tag.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4223,
+        "real_image_file_name": "000000045648.jpg",
+        "fake_image_file_name": "generated_image_373.jpeg",
+        "prompts": " Man walking across the empty beach holding his surfboard",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4224,
+        "real_image_file_name": "000000321579.jpg",
+        "fake_image_file_name": "generated_image_374.jpeg",
+        "prompts": " There are glasses and pizzas on the table. ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4225,
+        "real_image_file_name": "000000467578.jpg",
+        "fake_image_file_name": "generated_image_375.jpeg",
+        "prompts": " A box of donuts with a coffee in front of it.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4226,
+        "real_image_file_name": "000000052016.jpg",
+        "fake_image_file_name": "generated_image_376.jpeg",
+        "prompts": " A person standing by a building with a doughnut.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4227,
+        "real_image_file_name": "000000228418.jpg",
+        "fake_image_file_name": "generated_image_377.jpeg",
+        "prompts": " A small kid sleeping in a bed with a clock on the drawer",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4228,
+        "real_image_file_name": "000000477655.jpg",
+        "fake_image_file_name": "generated_image_378.jpeg",
+        "prompts": " A group of young men kicking around a soccer ball.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4229,
+        "real_image_file_name": "000000547612.jpg",
+        "fake_image_file_name": "generated_image_379.jpeg",
+        "prompts": " A bed covered in pillows with a towel on top of it.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4230,
+        "real_image_file_name": "000000458932.jpg",
+        "fake_image_file_name": "generated_image_380.jpeg",
+        "prompts": " A man riding a wave on top of a surfboard.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4231,
+        "real_image_file_name": "000000361587.jpg",
+        "fake_image_file_name": "generated_image_381.jpeg",
+        "prompts": " A man riding a wave on top of a surfboard.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4232,
+        "real_image_file_name": "000000347848.jpg",
+        "fake_image_file_name": "generated_image_382.jpeg",
+        "prompts": " A young man riding through the air on a  skateboard.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4233,
+        "real_image_file_name": "000000015797.jpg",
+        "fake_image_file_name": "generated_image_383.jpeg",
+        "prompts": " A man riding a snowboard down the side of a snow covered slope.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4234,
+        "real_image_file_name": "000000453792.jpg",
+        "fake_image_file_name": "generated_image_384.jpeg",
+        "prompts": " A woman standing next to a black snowboard.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4235,
+        "real_image_file_name": "000000306536.jpg",
+        "fake_image_file_name": "generated_image_385.jpeg",
+        "prompts": " A wooden desk topped with lots of clutter near a chair.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4236,
+        "real_image_file_name": "000000032812.jpg",
+        "fake_image_file_name": "generated_image_386.jpeg",
+        "prompts": " A tennis player aims for her return on a blue tennis court. ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4237,
+        "real_image_file_name": "000000462890.jpg",
+        "fake_image_file_name": "generated_image_387.jpeg",
+        "prompts": " A baby laying on it's back holding a toothbrush.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4238,
+        "real_image_file_name": "000000373662.jpg",
+        "fake_image_file_name": "generated_image_388.jpeg",
+        "prompts": " The bowl of soup and a sandwich is ready on the table. ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4239,
+        "real_image_file_name": "000000212261.jpg",
+        "fake_image_file_name": "generated_image_389.jpeg",
+        "prompts": " some people at a white counter are making food ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4240,
+        "real_image_file_name": "000000251874.jpg",
+        "fake_image_file_name": "generated_image_390.jpeg",
+        "prompts": " Four people playing in the shallow sea waters",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4241,
+        "real_image_file_name": "000000060992.jpg",
+        "fake_image_file_name": "generated_image_391.jpeg",
+        "prompts": " A man holding a racquet on top of a tennis court.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4242,
+        "real_image_file_name": "000000567308.jpg",
+        "fake_image_file_name": "generated_image_392.jpeg",
+        "prompts": " Tennis player in white shorts and green shirt swinging at a ball. ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4243,
+        "real_image_file_name": "000000077596.jpg",
+        "fake_image_file_name": "generated_image_393.jpeg",
+        "prompts": " A man and woman holding surfboards close to the sea",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4244,
+        "real_image_file_name": "000000232887.jpg",
+        "fake_image_file_name": "generated_image_394.jpeg",
+        "prompts": " A man poses while standing between two surfboards",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4245,
+        "real_image_file_name": "000000442809.jpg",
+        "fake_image_file_name": "generated_image_395.jpeg",
+        "prompts": " a pastry store with  many cupcakes on display",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4246,
+        "real_image_file_name": "000000384596.jpg",
+        "fake_image_file_name": "generated_image_396.jpeg",
+        "prompts": " a small boy and a dog in a bedroom",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4247,
+        "real_image_file_name": "000000434787.jpg",
+        "fake_image_file_name": "generated_image_397.jpeg",
+        "prompts": " A boy eating from a meat pizza at a restaurant table with other people at other tables.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4248,
+        "real_image_file_name": "000000572811.jpg",
+        "fake_image_file_name": "generated_image_398.jpeg",
+        "prompts": " A woman that is sitting down holding a hotdog.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4249,
+        "real_image_file_name": "000000440959.jpg",
+        "fake_image_file_name": "generated_image_399.jpeg",
+        "prompts": " A person on a skateboard standing in front of a wall with graffiti. ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4250,
+        "real_image_file_name": "000000421286.jpg",
+        "fake_image_file_name": "generated_image_400.jpeg",
+        "prompts": " a plate with cut slices of pizza and peppeoni",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4251,
+        "real_image_file_name": "000000275657.jpg",
+        "fake_image_file_name": "generated_image_401.jpeg",
+        "prompts": " The person is holding a forking and eating food.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4252,
+        "real_image_file_name": "000000058335.jpg",
+        "fake_image_file_name": "generated_image_402.jpeg",
+        "prompts": " A man on a skateboard is jumping over a pile of blocks.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4253,
+        "real_image_file_name": "000000089210.jpg",
+        "fake_image_file_name": "generated_image_403.jpeg",
+        "prompts": " a man and woman and some people looking at them",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4254,
+        "real_image_file_name": "000000395514.jpg",
+        "fake_image_file_name": "generated_image_404.jpeg",
+        "prompts": " Black and white photo of a family with a dog and females holding tennis rackets.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4255,
+        "real_image_file_name": "000000536028.jpg",
+        "fake_image_file_name": "generated_image_405.jpeg",
+        "prompts": " A man on a surfboard in the middle of body of water.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4256,
+        "real_image_file_name": "000000138871.jpg",
+        "fake_image_file_name": "generated_image_406.jpeg",
+        "prompts": " a room with a bed and multiple items in it ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4257,
+        "real_image_file_name": "000000466882.jpg",
+        "fake_image_file_name": "generated_image_407.jpeg",
+        "prompts": " There are people playing a game of tennis.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4258,
+        "real_image_file_name": "000000432429.jpg",
+        "fake_image_file_name": "generated_image_408.jpeg",
+        "prompts": " a female tennis player in a black top playing tennis",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4259,
+        "real_image_file_name": "000000095959.jpg",
+        "fake_image_file_name": "generated_image_409.jpeg",
+        "prompts": " A man and woman with surfboards on the sandy beach near an ocean.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4260,
+        "real_image_file_name": "000000140263.jpg",
+        "fake_image_file_name": "generated_image_410.jpeg",
+        "prompts": " a guy siting down in a chair eating",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4261,
+        "real_image_file_name": "000000581338.jpg",
+        "fake_image_file_name": "generated_image_411.jpeg",
+        "prompts": " a closeup of a toothbrush on the table ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4262,
+        "real_image_file_name": "000000117836.jpg",
+        "fake_image_file_name": "generated_image_412.jpeg",
+        "prompts": " A pizza on top of a white plate covered in greens.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4263,
+        "real_image_file_name": "000000056684.jpg",
+        "fake_image_file_name": "generated_image_413.jpeg",
+        "prompts": " a brown donut on some white paper on a red counter",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4264,
+        "real_image_file_name": "000000117471.jpg",
+        "fake_image_file_name": "generated_image_414.jpeg",
+        "prompts": " a female wearing black a sink and a bed",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4265,
+        "real_image_file_name": "000000188345.jpg",
+        "fake_image_file_name": "generated_image_415.jpeg",
+        "prompts": " A cake sitting on top of a table for someone named Raphael.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4266,
+        "real_image_file_name": "000000455946.jpg",
+        "fake_image_file_name": "generated_image_416.jpeg",
+        "prompts": " A glazed donut sitting on top of a paper plate.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4267,
+        "real_image_file_name": "000000447460.jpg",
+        "fake_image_file_name": "generated_image_417.jpeg",
+        "prompts": " A young boy eating a hot dog on top of a paper in a basket.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4268,
+        "real_image_file_name": "000000229713.jpg",
+        "fake_image_file_name": "generated_image_418.jpeg",
+        "prompts": " A person cutting a pizza with a pizza cutter.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4269,
+        "real_image_file_name": "000000371046.jpg",
+        "fake_image_file_name": "generated_image_419.jpeg",
+        "prompts": " A large brown dog sitting in front of a paw shaped cake with a lit candle.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4270,
+        "real_image_file_name": "000000345595.jpg",
+        "fake_image_file_name": "generated_image_420.jpeg",
+        "prompts": " People holding small soccer balls in their hands.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4271,
+        "real_image_file_name": "000000061596.jpg",
+        "fake_image_file_name": "generated_image_421.jpeg",
+        "prompts": " A sandwich sitting on top  of paper filled with food.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4272,
+        "real_image_file_name": "000000341132.jpg",
+        "fake_image_file_name": "generated_image_422.jpeg",
+        "prompts": " A woman standing over a table next to two other people.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4273,
+        "real_image_file_name": "000000564489.jpg",
+        "fake_image_file_name": "generated_image_423.jpeg",
+        "prompts": " A woman in a short red dress standing on top of a tennis court.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4274,
+        "real_image_file_name": "000000576743.jpg",
+        "fake_image_file_name": "generated_image_424.jpeg",
+        "prompts": " A tube of cream sitting on top of a bathroom sink.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4275,
+        "real_image_file_name": "000000140294.jpg",
+        "fake_image_file_name": "generated_image_425.jpeg",
+        "prompts": " Two large red blanket covered beds in a  bedroom.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4276,
+        "real_image_file_name": "000000151589.jpg",
+        "fake_image_file_name": "generated_image_426.jpeg",
+        "prompts": " A blue snowboard sitting on top of a snow covered slope.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4277,
+        "real_image_file_name": "000000197609.jpg",
+        "fake_image_file_name": "generated_image_427.jpeg",
+        "prompts": " Two hot dogs sitting on top of tissue paper.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4278,
+        "real_image_file_name": "000000052774.jpg",
+        "fake_image_file_name": "generated_image_428.jpeg",
+        "prompts": " A slice of pizza covered in olives on top of a pizza pan.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4279,
+        "real_image_file_name": "000000260802.jpg",
+        "fake_image_file_name": "generated_image_429.jpeg",
+        "prompts": " A person swinging a tennis racquet at a tennis ball.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4280,
+        "real_image_file_name": "000000226119.jpg",
+        "fake_image_file_name": "generated_image_430.jpeg",
+        "prompts": " A man standing behind a child sitting at a table",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4281,
+        "real_image_file_name": "000000041369.jpg",
+        "fake_image_file_name": "generated_image_431.jpeg",
+        "prompts": " A person riding down a sidewalk on a skateboard.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4282,
+        "real_image_file_name": "000000501898.jpg",
+        "fake_image_file_name": "generated_image_432.jpeg",
+        "prompts": " A woman standing on a tennis court holding a racquet.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4283,
+        "real_image_file_name": "000000367771.jpg",
+        "fake_image_file_name": "generated_image_433.jpeg",
+        "prompts": " A box filled with different flavored donuts on a table.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4284,
+        "real_image_file_name": "000000498765.jpg",
+        "fake_image_file_name": "generated_image_434.jpeg",
+        "prompts": " A man sitting on a couch holding food in his hands.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4285,
+        "real_image_file_name": "000000413432.jpg",
+        "fake_image_file_name": "generated_image_435.jpeg",
+        "prompts": " A man holding a tennis racquet up to the side of his face.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4286,
+        "real_image_file_name": "000000041077.jpg",
+        "fake_image_file_name": "generated_image_436.jpeg",
+        "prompts": " A man flying through the air while riding a snowboard.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4287,
+        "real_image_file_name": "000000537081.jpg",
+        "fake_image_file_name": "generated_image_437.jpeg",
+        "prompts": " A white plate topped with two slices of pizza.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4288,
+        "real_image_file_name": "000000577385.jpg",
+        "fake_image_file_name": "generated_image_438.jpeg",
+        "prompts": " A sandwich sitting on top of a large wooden block.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4289,
+        "real_image_file_name": "000000277422.jpg",
+        "fake_image_file_name": "generated_image_439.jpeg",
+        "prompts": " A man holding a surfboard while wearing a wet suit.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4290,
+        "real_image_file_name": "000000099990.jpg",
+        "fake_image_file_name": "generated_image_440.jpeg",
+        "prompts": " A couple of women standing on a tennis court holding racquets.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4291,
+        "real_image_file_name": "000000339120.jpg",
+        "fake_image_file_name": "generated_image_441.jpeg",
+        "prompts": " A young man holding a tennis racquet up in the air.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4292,
+        "real_image_file_name": "000000485294.jpg",
+        "fake_image_file_name": "generated_image_442.jpeg",
+        "prompts": " A boy in pajama's lying on a bed asleep.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4293,
+        "real_image_file_name": "000000174740.jpg",
+        "fake_image_file_name": "generated_image_443.jpeg",
+        "prompts": " A tray with powdered doughnuts next to a drink bottle.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4294,
+        "real_image_file_name": "000000371650.jpg",
+        "fake_image_file_name": "generated_image_444.jpeg",
+        "prompts": " A boy is preparing to hit a tennis ball. ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4295,
+        "real_image_file_name": "000000321258.jpg",
+        "fake_image_file_name": "generated_image_445.jpeg",
+        "prompts": " a man that is on a surfboard in the water",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4296,
+        "real_image_file_name": "000000336324.jpg",
+        "fake_image_file_name": "generated_image_446.jpeg",
+        "prompts": " A very messy desk with a computer and mouse.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4297,
+        "real_image_file_name": "000000057283.jpg",
+        "fake_image_file_name": "generated_image_447.jpeg",
+        "prompts": " A young girl holding a piece of food and her hand over her mouth.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4298,
+        "real_image_file_name": "000000214958.jpg",
+        "fake_image_file_name": "generated_image_448.jpeg",
+        "prompts": " A man holding a purple hose on top of waves near a sandy beach.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4299,
+        "real_image_file_name": "000000442250.jpg",
+        "fake_image_file_name": "generated_image_449.jpeg",
+        "prompts": " The man is coaching the kids on how to play soccer.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4300,
+        "real_image_file_name": "000000481596.jpg",
+        "fake_image_file_name": "generated_image_450.jpeg",
+        "prompts": " A man holding a hot dog in his right hand.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4301,
+        "real_image_file_name": "000000448837.jpg",
+        "fake_image_file_name": "generated_image_451.jpeg",
+        "prompts": " A man in a bed is eating a doughnut.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4302,
+        "real_image_file_name": "000000035795.jpg",
+        "fake_image_file_name": "generated_image_452.jpeg",
+        "prompts": " A man with glasses holding a donut while seated on a desk",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4303,
+        "real_image_file_name": "000000051484.jpg",
+        "fake_image_file_name": "generated_image_453.jpeg",
+        "prompts": " A group of men carrying surfboards on a beach.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4304,
+        "real_image_file_name": "000000282680.jpg",
+        "fake_image_file_name": "generated_image_454.jpeg",
+        "prompts": " A man surfs on a small wave on the water.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4305,
+        "real_image_file_name": "000000106356.jpg",
+        "fake_image_file_name": "generated_image_455.jpeg",
+        "prompts": " A dog sitting up straight on a bed looking stoic.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4306,
+        "real_image_file_name": "000000178064.jpg",
+        "fake_image_file_name": "generated_image_456.jpeg",
+        "prompts": " A bedroom with the only light coming from the window.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4307,
+        "real_image_file_name": "000000508006.jpg",
+        "fake_image_file_name": "generated_image_457.jpeg",
+        "prompts": " Two women standing behind a birthday cake that is sparking.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4308,
+        "real_image_file_name": "000000119226.jpg",
+        "fake_image_file_name": "generated_image_458.jpeg",
+        "prompts": " A person is holding a surf board in their hand",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4309,
+        "real_image_file_name": "000000368844.jpg",
+        "fake_image_file_name": "generated_image_459.jpeg",
+        "prompts": " A woman with dark makeup on holding a sandwich.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4310,
+        "real_image_file_name": "000000099348.jpg",
+        "fake_image_file_name": "generated_image_460.jpeg",
+        "prompts": " a crowd of surfers are all on a beach",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4311,
+        "real_image_file_name": "000000146120.jpg",
+        "fake_image_file_name": "generated_image_461.jpeg",
+        "prompts": " A WOMAN SITTING ON A BENCH EATING PIZZA WITH A LITTLE BOY ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4312,
+        "real_image_file_name": "000000437732.jpg",
+        "fake_image_file_name": "generated_image_462.jpeg",
+        "prompts": " A man hitting a tennis ball with a racquet.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4313,
+        "real_image_file_name": "000000513604.jpg",
+        "fake_image_file_name": "generated_image_463.jpeg",
+        "prompts": " A woman holding a hot dog next to a man.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4314,
+        "real_image_file_name": "000000086249.jpg",
+        "fake_image_file_name": "generated_image_464.jpeg",
+        "prompts": " A BABY BEING HELD WITH A TOY IN HIS MOUTH ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4315,
+        "real_image_file_name": "000000547341.jpg",
+        "fake_image_file_name": "generated_image_465.jpeg",
+        "prompts": " A person with braces is biting into a sandwich.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4316,
+        "real_image_file_name": "000000503332.jpg",
+        "fake_image_file_name": "generated_image_466.jpeg",
+        "prompts": " A surfer rides the top of a wave in the ocean.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4317,
+        "real_image_file_name": "000000193442.jpg",
+        "fake_image_file_name": "generated_image_467.jpeg",
+        "prompts": " A person holding a custard filled donut on a piece of tissue paper.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4318,
+        "real_image_file_name": "000000096048.jpg",
+        "fake_image_file_name": "generated_image_468.jpeg",
+        "prompts": " A little kid standing in front of a paper plate with pizza.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4319,
+        "real_image_file_name": "000000352671.jpg",
+        "fake_image_file_name": "generated_image_469.jpeg",
+        "prompts": " A muffin tin filled with lots of  muffins.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4320,
+        "real_image_file_name": "000000146757.jpg",
+        "fake_image_file_name": "generated_image_470.jpeg",
+        "prompts": " A person riding a skateboard up the side of a ramp.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4321,
+        "real_image_file_name": "000000079686.jpg",
+        "fake_image_file_name": "generated_image_471.jpeg",
+        "prompts": " A room with some chairs and a bookshelf.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4322,
+        "real_image_file_name": "000000542959.jpg",
+        "fake_image_file_name": "generated_image_472.jpeg",
+        "prompts": " A collage of photos showing a house and some of its rooms.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4323,
+        "real_image_file_name": "000000369584.jpg",
+        "fake_image_file_name": "generated_image_473.jpeg",
+        "prompts": " Two pizza pies in take-out boxes on a counter.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4324,
+        "real_image_file_name": "000000514904.jpg",
+        "fake_image_file_name": "generated_image_474.jpeg",
+        "prompts": " A woman holds a Weiner in each hand. ",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4325,
+        "real_image_file_name": "000000077181.jpg",
+        "fake_image_file_name": "generated_image_475.jpeg",
+        "prompts": " Young person practicing first aid technique with others on grassy area.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4326,
+        "real_image_file_name": "000000026547.jpg",
+        "fake_image_file_name": "generated_image_476.jpeg",
+        "prompts": " Toothbrush sticking up out of water in sink drain.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4327,
+        "real_image_file_name": "000000532571.jpg",
+        "fake_image_file_name": "generated_image_477.jpeg",
+        "prompts": " A close up shot of a tasty looking deep dish pizza.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4328,
+        "real_image_file_name": "000000202187.jpg",
+        "fake_image_file_name": "generated_image_478.jpeg",
+        "prompts": " A bedroom with a bed that is not made up.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4329,
+        "real_image_file_name": "000000016744.jpg",
+        "fake_image_file_name": "generated_image_479.jpeg",
+        "prompts": " A guy on a snow board up in the air.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4330,
+        "real_image_file_name": "000000173083.jpg",
+        "fake_image_file_name": "generated_image_480.jpeg",
+        "prompts": " A group of wetsuit-clad men standing at a riverbank.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4331,
+        "real_image_file_name": "000000118191.jpg",
+        "fake_image_file_name": "generated_image_481.jpeg",
+        "prompts": " Player making a goal during the soccer game match",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4332,
+        "real_image_file_name": "000000173704.jpg",
+        "fake_image_file_name": "generated_image_482.jpeg",
+        "prompts": " A person standing on a street with some food.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4333,
+        "real_image_file_name": "000000243968.jpg",
+        "fake_image_file_name": "generated_image_483.jpeg",
+        "prompts": " A man riding a snowboard is jumping over a hill.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4334,
+        "real_image_file_name": "000000060596.jpg",
+        "fake_image_file_name": "generated_image_484.jpeg",
+        "prompts": " A man waits in bed while watching television and holding something.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4335,
+        "real_image_file_name": "000000230646.jpg",
+        "fake_image_file_name": "generated_image_485.jpeg",
+        "prompts": " A bunch of candles that are on a cake.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4336,
+        "real_image_file_name": "000000300368.jpg",
+        "fake_image_file_name": "generated_image_486.jpeg",
+        "prompts": " Bride and groom looking at wedding cake with server in hand",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4337,
+        "real_image_file_name": "000000220538.jpg",
+        "fake_image_file_name": "generated_image_487.jpeg",
+        "prompts": " Two pizzas that are sitting on a table.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4338,
+        "real_image_file_name": "000000376449.jpg",
+        "fake_image_file_name": "generated_image_488.jpeg",
+        "prompts": " A shirtless surfer jumps up from the waves.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4339,
+        "real_image_file_name": "000000164292.jpg",
+        "fake_image_file_name": "generated_image_489.jpeg",
+        "prompts": " A man is riding waves with his surfboard.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4340,
+        "real_image_file_name": "000000575006.jpg",
+        "fake_image_file_name": "generated_image_490.jpeg",
+        "prompts": " A man holding a foil wrap in his hand near a stove.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4341,
+        "real_image_file_name": "000000382603.jpg",
+        "fake_image_file_name": "generated_image_491.jpeg",
+        "prompts": " A bakery counter has many different kinds of pastries and pies.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4342,
+        "real_image_file_name": "000000138096.jpg",
+        "fake_image_file_name": "generated_image_492.jpeg",
+        "prompts": " A child on a sidewalk rising a skateboard.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4343,
+        "real_image_file_name": "000000264155.jpg",
+        "fake_image_file_name": "generated_image_493.jpeg",
+        "prompts": " A group of people sitting at a table with pizza.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4344,
+        "real_image_file_name": "000000084454.jpg",
+        "fake_image_file_name": "generated_image_494.jpeg",
+        "prompts": " A bed and a laptop in a room.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4345,
+        "real_image_file_name": "000000389986.jpg",
+        "fake_image_file_name": "generated_image_495.jpeg",
+        "prompts": " A person is hitting a ball with a racket",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4346,
+        "real_image_file_name": "000000573395.jpg",
+        "fake_image_file_name": "generated_image_496.jpeg",
+        "prompts": " a group of surfers are riding waves in the ocean",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4347,
+        "real_image_file_name": "000000542962.jpg",
+        "fake_image_file_name": "generated_image_497.jpeg",
+        "prompts": " A couch and a television in a room.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4348,
+        "real_image_file_name": "000000301762.jpg",
+        "fake_image_file_name": "generated_image_498.jpeg",
+        "prompts": " some sauce is being stirred in a bowl",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4349,
+        "real_image_file_name": "000000443712.jpg",
+        "fake_image_file_name": "generated_image_499.jpeg",
+        "prompts": " The man stands outside of a store holding a piece of food.",
+        "platform": "GLIDE"
+    },
+    {
+        "id": 4350,
+        "real_image_file_name": "000000020598.jpg",
+        "fake_image_file_name": "generated_image_500.jpeg",
+        "prompts": " Small children are eating from plates of pizza.",
+        "platform": "GLIDE"
+    }
+]
