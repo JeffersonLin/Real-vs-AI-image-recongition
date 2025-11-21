@@ -1,0 +1,1 @@
+# training file for the cnn model
