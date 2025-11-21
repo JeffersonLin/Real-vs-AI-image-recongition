@@ -16,5 +16,29 @@ def run_knn():
     print("Dalle REAL images:", len(dalle_real))
     print("Dalle FAKE images:", len(dalle_fake))
 
+
+def sample_images(n = 250):
+
+    all_data = load_all_data()
+    datasets = ['dalle','glide','imagen','sd']
+    all_samples = []
+
+    for i in datasets:
+        real = all_data[i]['real']
+        fake = all_data[i]['fake']
+        real_sample = real[:250]
+        fake_sample = fake[:250]
+
+        all_samples.append(real_sample)
+        all_samples.append(fake_sample)
+    
+    return all_samples
+
+
+
+
+
+
 if __name__ == "__main__":
-    run_knn()
+    samples = sample_images(250)
+    print(len(samples))
