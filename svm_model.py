@@ -8,10 +8,11 @@ from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
+from sklearn.model_selection import GridSearchCV
 
-def run_svm(x, y, kernel, C, gamma):
+def run_svm(x, y, kernel, C=1.0, gamma='scale'):
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=42, stratify=y)
-    svm = SVC(kernel=kernel)
+    svm = SVC(kernel=kernel, C=C, gamma=gamma)
     svm.fit(x_train, y_train)
     y_pred = svm.predict(x_test)
 
@@ -43,8 +44,6 @@ def sample_images(n):
 
 
     return all_samples
-
-
 
 def apply_pca(all_samples, size, n_components):
     inputs = []
@@ -118,6 +117,18 @@ def apply_patch_pca(all_samples, size, patch_size, n_components):
 
     return X_img, y, scaler, pca_model
 
+def tune_svm(X, y, kernel='rbf'):
+    param_grid = {
+        'C': [0.1, 1, 10, 100],
+        'gamma': ['scale', 0.1, 0.01, 0.001]
+    }
+    svm = SVC(kernel=kernel)
+    grid = GridSearchCV(svm, param_grid, cv=5, scoring='f1', n_jobs=-1)
+    grid.fit(X, y)
+    print("Best params:", grid.best_params_)
+    print("Best CV score:", grid.best_score_)
+    return grid.best_estimator_
+
 
 if __name__ == "__main__":
     samples = sample_images(250)
@@ -132,7 +143,11 @@ if __name__ == "__main__":
 
     ## check for y being overwritten in other code!!! fix: y -> y_patch for patch pca ##
 
-    svm_model_linear = run_svm(x_pca, y, kernel='linear', C=1.0, gamma='scale')
-    svm_model_rbf = run_svm(x_patch_pca, y_patch, kernel='rbf', C=1.0, gamma='scale')
+    # # Grid search SVM tuning
+    # best_svm_rbf = tune_svm(x_pca, y, kernel='rbf')
+    # best_svm_rbf = tune_svm(x_patch_pca, y, kernel='rbf')
 
-
+    # best svm
+    svm_rbf_tuned = run_svm(x_patch_pca, y, kernel='rbf', C=10.0, gamma=0.001)
+    # svm_lin_tuned = run_svm(x_pca, y, kernel='linear', C=1.0, gamma='scale')
+    # svm_lin_tuned = run_svm(x_patch_pca, y, kernel='linear', C=1.0, gamma='scale')
